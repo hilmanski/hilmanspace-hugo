@@ -5,7 +5,7 @@ description = "Lee Sedol, seorang pemain Go profesional dengan rank 9 akan melaw
 date = "2020-01-04T05:00:00Z"
 featured_image = "https://i.ibb.co/wzghWnM/Screen-Shot-2020-01-02-at-1-41-58-PM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Saat diwawancara pertama kali, Lee Sedol, pemain Go profesional asal Korea Selatan dengan tegas menjawab akan menang "5-0" atau paling tidak "4-1" atas pertandingannya melawan mesin "alphago" buatan DeepMind, perusahaan asal Inggris.

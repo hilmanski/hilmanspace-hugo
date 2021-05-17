@@ -5,7 +5,7 @@ description = "Saya rutin ke salah satu cafe dekat rumahBaristanya tahu saya sel
 date = "2018-04-18T17:27:53Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Saya rutin ke salah satu cafe dekat rumah

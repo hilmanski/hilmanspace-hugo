@@ -5,7 +5,7 @@ description = "Saya menulis post ini dalam keadaan normal, tidak sedang terseran
 date = "2016-03-18T19:28:54Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Saya menulis post ini dalam keadaan normal, tidak sedang terserang cinta, justru dalam keadaan normal seperti ini saya memilih menulis, bisa lebih jernih, semoga ada yang bisa diambil jadi pelajaran, khususnya saya sendiri, menjadi catatan pribadi sebagai pengingat. 

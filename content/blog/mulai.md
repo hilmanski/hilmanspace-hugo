@@ -5,7 +5,7 @@ description = "Semua orang sedang menunggu sesuatu untuk dimulai. Sayangnya semu
 date = "2019-10-01T05:00:00Z"
 featured_image = "https://i.ibb.co/ZfwpXKF/Screen-Shot-2019-10-14-at-10-31-32-AM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 "Mungkin besok sudah ada"

@@ -5,7 +5,7 @@ description = "Tehataukopi berumur 1 tahun! yeay!! Tidak banyak proyek yang saya
 date = "2018-11-20T13:15:34Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Tehataukopi berumur 1 tahun! yeay!! Tidak banyak proyek yang saya buat bisa bertahan lama, wajar saya senang ada yang berumur 1 tahun :D.

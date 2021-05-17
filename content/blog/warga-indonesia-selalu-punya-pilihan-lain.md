@@ -5,7 +5,7 @@ description = "Ada kutipan populer 'Memimpin, mengikuti atau pergi'. Tiga piliha
 date = "2019-08-30T09:30:35Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Ada kutipan populer "Memimpin, mengikuti atau pergi". Tiga pilihan, kamu punya ide? okay.. tugas kamu sekarang memilih 1. kamu mau menjalankan ide tersebut , 2. mengikuti orang yang berani menjalankan idenya atau 3. tidak menghalangi orang/kelompok yang sedang melakukannya.

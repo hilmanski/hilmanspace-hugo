@@ -5,7 +5,7 @@ description = "Dengan informasi 24 jam dari televisi, koran dan monster terbaru 
 date = "2018-11-05T16:51:47Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Dengan informasi 24 jam dari televisi, koran dan monster terbaru yaitu Internet, manusia sudah tidak sanggup lagi, saya dan kamu, menampung semua informasi dan berita yang ada. Banyak yang takut tertinggal berita, saat bertemu teman di kantor atau kampusnya, tidak bisa bercerita tentang apa berita apa saja yang ada kemarin.

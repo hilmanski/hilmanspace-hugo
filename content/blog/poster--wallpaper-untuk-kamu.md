@@ -5,7 +5,7 @@ description = "Hai, kemarin saya membuat poster/wallpaper ini, terserah kamu mau
 date = "2019-01-23T06:21:21Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Hai, kemarin saya membuat poster/wallpaper ini, terserah kamu mau diapakan.

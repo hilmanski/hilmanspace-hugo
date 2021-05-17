@@ -5,7 +5,7 @@ description = "Kalo kamu bisa bikin sesuatu sekarangYang benar-benar kamu mauTan
 date = "2018-02-14T21:03:49Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Kalo kamu bisa bikin sesuatu sekarang

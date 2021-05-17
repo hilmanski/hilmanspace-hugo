@@ -5,7 +5,7 @@ description = "Pernah mendengar orang mengeluh dengan alasannya padahal tidak di
 date = "2019-09-30T08:00:00Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Pernah mendengar orang mengeluh dengan alasannya padahal tidak ditanya? mereka ingin memberi tahu kalau mereka punya "alasan", kenapa yang dilakukan gagal atau kenapa mereka tidak melakukannya sama sekali.

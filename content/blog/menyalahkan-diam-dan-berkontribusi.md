@@ -5,7 +5,7 @@ description = "Presiden disalahkan, polisi disalahkan, orang kaya disalahkan, or
 date = "2018-11-06T20:33:19Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Presiden disalahkan, polisi disalahkan, orang kaya disalahkan, orang beragama disalahkan, orang berilmu disalahkan, bagaimana dengan diri sendiri?

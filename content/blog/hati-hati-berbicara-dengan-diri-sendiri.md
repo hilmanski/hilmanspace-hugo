@@ -5,7 +5,7 @@ description = "Tidak ada orang yang paling kamu percaya seperti diri kamu sendir
 date = "2019-08-05T08:48:55Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Tidak ada orang yang paling kamu percaya seperti diri kamu sendiri, karena itu hati hati saat berbicara dengan diri sendiri... walaupun berbicara dalam hati.
 

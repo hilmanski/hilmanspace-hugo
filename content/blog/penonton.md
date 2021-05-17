@@ -5,7 +5,7 @@ description = "saya mulai menulis saat tidak ada yang membaca kecuali diri saya.
 date = "2020-05-24T16:00:00Z"
 featured_image = "https://i.ibb.co/L1mDT7z/Screen-Shot-2020-05-24-at-2-40-24-PM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Setelah beberapa kali mengeluarkan karya, bukan hal yang aneh, kalau penonton (audience) yang merasa nyambung dengan karyamu akan hadir. Mungkin bisa dihitung jari atau sudah tidak lagi.

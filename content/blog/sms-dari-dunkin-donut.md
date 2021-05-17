@@ -5,7 +5,7 @@ description = "Hampir  setiap hari saya mendapatkan sms blast dari dunkin donut,
 date = "2018-11-16T14:39:42Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Hampir  setiap hari saya mendapatkan sms blast dari dunkin donut, isi smsnya "beli 6 gratis 6".

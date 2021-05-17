@@ -5,7 +5,7 @@ description = "'Berusaha menangkap dua kelinci, kamu tidak akan menangkap satu p
 date = "2018-11-11T11:59:40Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 "Berusaha menangkap dua kelinci, kamu tidak akan menangkap satu pun-Russian Proverb

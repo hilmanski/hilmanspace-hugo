@@ -5,7 +5,7 @@ description = "Punya  mobil sangat membantu untuk bepergian tanpa kepanasan atau
 date = "2018-12-06T07:48:57Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Punya  mobil sangat membantu untuk bepergian tanpa kepanasan atau kehujanan, tapi punya 3 mobil, tidak bisa bikin kamu berangkat dengan 3 itu sekaligus

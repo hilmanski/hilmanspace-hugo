@@ -5,7 +5,7 @@ description = "Pernah datang ke ruang sidang? Seorang hakim akan berdiri di teng
 date = "2018-12-08T11:16:58Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Pernah datang ke ruang sidang? Seorang hakim akan berdiri di tengah, normalnya posisisnya lebih tinggi dari yang hadir. Hakim akan mendengarkan keterangan tersangka. Tapi tidak cukup disana, dia juga perlu mendengar keterangan saksi dan yang melaporkan.

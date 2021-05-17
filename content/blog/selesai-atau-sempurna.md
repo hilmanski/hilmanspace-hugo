@@ -5,7 +5,7 @@ description = "Yang tidak sempurna tapi selesaiMasih lebih baik dibanding sempur
 date = "2018-05-23T19:15:45Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Yang tidak sempurna tapi selesai

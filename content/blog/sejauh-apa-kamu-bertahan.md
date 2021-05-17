@@ -5,7 +5,7 @@ description = "Sudah berapa lama kamu berjuang? pertanyaan lebih menarik lagi, s
 date = "2019-01-13T16:49:06Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Sudah berapa lama kamu berjuang? 

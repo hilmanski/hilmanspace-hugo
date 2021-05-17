@@ -5,7 +5,7 @@ description = "Sudah banyak buku, seminar, artikel dan video di internet. Apakah
 date = "2019-08-09T07:51:25Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Sudah banyak buku, seminar, artikel dan video di internet. Apakah kamu masih perlu membagikan sesuatu? bukannya semua sudah ada sekarang? sudah banyak orang yang lebih ahli mengajar?

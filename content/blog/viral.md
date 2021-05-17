@@ -5,7 +5,7 @@ description = "Untuk apa membuat prank? agar punya konten.Untuk apa punya konten
 date = "2020-02-22T16:00:00Z"
 featured_image = "https://i.ibb.co/dBZSw01/Screen-Shot-2020-02-23-at-8-21-13-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Untuk apa membuat prank? agar punya konten.  
 Untuk apa punya konten? agar bisa viral.  

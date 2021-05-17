@@ -5,7 +5,7 @@ description = "Kamu cinta atau suka dengan temanmu?Suka kamu bisa menghabiskan w
 date = "2018-11-17T17:55:46Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Kamu cinta atau suka dengan temanmu?

@@ -5,7 +5,7 @@ description = "ini jelek, itu rusak, pemerintah ngga bener, kerjaan ngga beres, 
 date = "2020-04-07T16:00:00Z"
 featured_image = "https://i.ibb.co/8DZn8MX/Screen-Shot-2020-04-08-at-11-46-01-AM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Tidak ada yang suka dengan kemacetan, tidak ada yang suka dengan sistem transportasi umum yang tidak nyaman, tidak ada juga yang suka dengan pengangguran, tapi semua diam… kecuali Nadiem Makariem. Nadiem membuat GoJek di 2011, yang hingga saat ini berkembang besar, bukan hanya di Jakarta, tapi di seluruh Indonesia.

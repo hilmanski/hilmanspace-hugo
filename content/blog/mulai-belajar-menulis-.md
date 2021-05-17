@@ -5,7 +5,7 @@ description = "Bukan menulis buku dan menerbitkannyaCukup tulis apa yang kamu al
 date = "2019-01-04T11:39:21Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Bukan menulis buku dan menerbitkannya

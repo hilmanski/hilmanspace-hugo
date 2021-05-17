@@ -5,7 +5,7 @@ description = "'Wenn man will, sucht man Wege, wenn man nicht will sucht man Gr√
 date = "2018-02-15T09:08:09Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 "Wenn man will, sucht man Wege, wenn man nicht will sucht man Gr√ºnde"

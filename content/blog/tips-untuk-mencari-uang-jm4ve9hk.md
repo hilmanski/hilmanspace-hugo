@@ -5,7 +5,7 @@ description = "Saran ini saya dapat dari Tim Ferriss, tidak tahu Tim dapat dari 
 date = "2018-09-16T21:02:07Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Saran ini saya dapat dari Tim Ferriss, tidak tahu Tim dapat dari mana

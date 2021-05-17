@@ -5,7 +5,7 @@ description = "Banyak yang melakukan upacara di 17 Agustus 2018Tidak banyak yang
 date = "2018-08-18T13:28:37Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Banyak yang melakukan upacara di 17 Agustus 2018

@@ -5,7 +5,7 @@ description = "Mau produktif? tentukan dulu prioritasnyaMengerjakan semua hal it
 date = "2018-08-17T08:10:44Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Mau produktif? tentukan dulu prioritasnya

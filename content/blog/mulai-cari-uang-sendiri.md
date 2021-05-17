@@ -5,7 +5,7 @@ description = "Terlepas kamu dari keluarga berada atau bukan, belajar mencari ua
 date = "2019-10-02T08:00:00Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Terlepas kamu dari keluarga berada atau bukan, belajar mencari uang adalah hal penting untuk kamu coba. Cepat atau lambat kamu akan melakukan ini

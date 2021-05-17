@@ -5,7 +5,7 @@ description = "Kamu yang pakai teknologi atau teknologi yang pakai kamu?Sadar se
 date = "2019-10-02T08:00:00Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Kamu yang pakai teknologi atau teknologi yang pakai kamu?

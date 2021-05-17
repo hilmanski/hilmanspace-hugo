@@ -5,7 +5,7 @@ description = "Lihat anak kecil yang sedang bermain. Seru sekali!Sekarang banyan
 date = "2019-09-23T12:52:29Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Lihat anak kecil yang sedang bermain. Seru sekali!

@@ -5,7 +5,7 @@ description = "Bagiamana mengatasi rasa takut ketinggalan alias FOMO (Fear of mi
 date = "2018-12-15T18:12:00Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Pertanyaan seputar "FOMO"  menarik dibahas. Tentang takut ketinggalan sesuatu (FOMO). Alasan kamu mengecek telegram, whatsapp, twitter, facebook dan instagram. Seakan-akan kalau kamu tidak mengeceknya selama satu hari ada sesuatu yang buruk terjadi.
 

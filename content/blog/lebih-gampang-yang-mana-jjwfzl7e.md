@@ -5,7 +5,7 @@ description = "Saya sering dapat pertanyaanLebih gampang yang mana?Belajar yang 
 date = "2018-07-22T14:09:14Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Saya sering dapat pertanyaan

@@ -5,7 +5,7 @@ description = "Youtube mengubah orang cara menonton acaraFacebook mengubah orang
 date = "2018-10-15T11:21:27Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Youtube mengubah orang cara menonton acara

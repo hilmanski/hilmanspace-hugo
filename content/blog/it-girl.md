@@ -5,7 +5,7 @@ description = "Apakah ada Komunitas IT / programmer khusus wanita di Indonesia? 
 date = "2019-09-24T16:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Semoga yang baca sedang sehat. Obrolan kali ini adalah masalah klasik yang masih dirasakan sekarang yaitu kurang nyamannya teman-teman perempuan untuk bergabung ke komunitas IT (programming, ngoding, dkk.). Penyebabnya cukup banyak:

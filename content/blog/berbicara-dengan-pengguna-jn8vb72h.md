@@ -5,7 +5,7 @@ description = "Salah satu kesalahan besar bisnis adalah membuat produk tanpa ber
 date = "2018-10-14T20:50:31Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Salah satu kesalahan besar bisnis adalah membuat produk tanpa berbicara langsung dengan penggunanya

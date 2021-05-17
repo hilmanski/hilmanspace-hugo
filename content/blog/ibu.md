@@ -5,7 +5,7 @@ description = "kamu tidak memilih siapa ibu kamu, begitu juga sebaliknya. Dia ha
 date = "2019-12-18T16:00:00Z"
 featured_image = "https://i.ibb.co/WgRrjWN/Screen-Shot-2019-12-19-at-8-36-55-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Kamu tidak memilih siapa ibumu,   

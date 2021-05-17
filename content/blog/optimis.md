@@ -5,7 +5,7 @@ description = "Saya pernah semangat mencari motivasi. Pernah juga muak dengan is
 date = "2020-12-07T11:02:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/pfUWHV3zcJKW8DVxeR3PoQESinnrXNExyh7eRKpk.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Ada jaman saya semangat di "kepala", jadi sangat ambisius, mau mengerjakan banyak hal dan mau jadi orang besar. Mulai nonton banyak video dan baca buku tentang motivasi. Lama-kelamaan saya menjadi bosan, ternyata yang terjadi saya mencari pelarian dengan terus menghabiskan waktu 'mengkonsumsi' motivasi-motivasi ini.
 

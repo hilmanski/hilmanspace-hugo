@@ -5,7 +5,7 @@ description = "bumi sedang beristirahat, kendaraan lebih sedikit yang berlalu la
 date = "2020-03-28T16:00:00Z"
 featured_image = "https://i.ibb.co/K6HWq1G/Screen-Shot-2020-03-29-at-12-09-30-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Tidak ada yang tahu alasan munculnya covid19,   

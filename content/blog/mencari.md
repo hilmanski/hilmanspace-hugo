@@ -5,7 +5,7 @@ description = "Saya sering berpikir apakah yang dikerjakan sekarang adalah akhir
 date = "2020-11-13T08:36:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/UJq3HoQNaVHzC1UYVOLONFU6diOwJlwz9I6NynJB.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 Saya sering bingung ingin jadi apa  
 Pernah ada cita-cita di kepala  

@@ -5,7 +5,7 @@ description = "Dalam mengerjakan apapun, orang biasa memberi semangat dengan men
 date = "2018-12-13T19:20:16Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Dalam mengerjakan apapun, orang biasa memberi semangat dengan menyebutkan "semua pasti bisa". Menurut saya, ada dua orang yang tidak bisa

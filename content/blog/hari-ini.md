@@ -5,7 +5,7 @@ description = "Hari kita ngerasa sempurna Hari kita berani mulai membuat usaha H
 date = "2017-07-02T18:25:22Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Hari kita merasa sempurna  

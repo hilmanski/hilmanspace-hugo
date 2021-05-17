@@ -5,7 +5,7 @@ description = "jangan memprioritaskan apa yang sudah ada di jadwal, tapi jadwalk
 date = "2019-11-03T16:00:00Z"
 featured_image = ""
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Lihat jadwal kamu, penuh dengan kegiatan?  
 jangan bangga dulu, kegiatan-kegiatan tadi belum tentu bermanfaat dan sejalan dengan tujuan kamu.

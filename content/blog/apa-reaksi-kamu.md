@@ -5,7 +5,7 @@ description = "Ada dua skenario berbeda:1) Skenario pertamaAda yang mengirim pes
 date = "2018-03-08T10:15:15Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Ada dua skenario berbeda:

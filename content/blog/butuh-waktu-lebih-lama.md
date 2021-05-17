@@ -5,7 +5,7 @@ description = "Menurut kamu memang sekarang susah dan tidak mungkin, tapi kalau 
 date = "2019-10-01T08:00:00Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Menurut kamu memang sekarang susah dan tidak mungkin, tapi kalau kamu sabar dan berusaha, pelan pelan jalannya akan terbuka.

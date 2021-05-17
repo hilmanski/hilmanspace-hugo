@@ -5,7 +5,7 @@ description = "Kerja jauh lebih baik ketika kita ngga butuh uangnya.Kerja karena
 date = "2017-12-07T18:27:59Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Kerja jauh lebih baik ketika kita ngga butuh uangnya.

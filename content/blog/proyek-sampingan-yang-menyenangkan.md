@@ -5,7 +5,7 @@ description = "Jessica Hische seorang 'lettering artist', sebelum populer, dia m
 date = "2019-10-03T08:00:00Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Jessica Hische seorang "lettering artist", sebelum populer, dia membuat sebuah proyek, dimana dia akan posting setiap hari karya yang dia buat di internet. Proyeknya ini mendapatkan perhatian banyak blog dan website berita, ia pun mendapatkan banyak undangan untuk sharing pengalaman dan kesempatan untuk bertemu klien baru.

@@ -5,7 +5,7 @@ description = "Internet adalah pintu ke mana saja milik Doraemon, sayangnya haru
 date = "2020-11-26T02:07:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/hdIGd8AZdTxQ7fGAJSUh0AlBcJApHFyXAK9P8Enx.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Pernah merasa mau belajar banyak hal tapi berakhir tidak belajar apa-apa? Atau mau mengerjakan banyak tugas.. duduk depan komputer.. dan waktu sudah malam tanpa ada hal penting yang diselesaikan?
 

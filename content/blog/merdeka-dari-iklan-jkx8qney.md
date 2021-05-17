@@ -5,7 +5,7 @@ description = "Sejak kecil kita dibombardir dengan iklanIklan bisa menentukan ak
 date = "2018-08-17T08:13:48Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Sejak kecil kita dibombardir dengan iklan

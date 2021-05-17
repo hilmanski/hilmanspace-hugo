@@ -5,7 +5,7 @@ description = "Tidak sedikit dari kita yang tanpa sadar mengikuti pertandingan i
 date = "2019-12-01T02:00:00Z"
 featured_image = "https://i.ibb.co/0fpLN7P/Screen-Shot-2019-11-30-at-7-03-02-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Kita punya dua pilihan, memenangkan pertandingan di kehidupan ini dengan cara apapun ATAU tidak mengikuti pertandingan dan hanya menikmati permainannya.

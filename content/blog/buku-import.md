@@ -5,7 +5,7 @@ description = "Berbagi pengalaman tentang membeli buku import di indonesia. Ada 
 date = "2018-01-20T12:28:22Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Sekitar 2 tahun lalu (2016) mulai baca buku bahasa inggris, ternyata seru banget! tentu tergantung genre yang temen-temen suka

@@ -5,7 +5,7 @@ description = "Kita sering mendengar hacker yang sudah membuat program sejak kec
 date = "2018-11-25T10:49:16Z"
 featured_image = "https://i.ibb.co/XxFTsHL/Screen-Shot-2019-11-04-at-4-26-21-PM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Kita sering mendengar hacker yang sudah membuat program sejak kecil. Berbeda dengan [DHH](http://david.heinemeierhansson.com/)) yang baru serius belajar programming saat kuliah, sekarang membuat program yang digunakan jutaan orang.

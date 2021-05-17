@@ -5,7 +5,7 @@ description = "Saya membuat sekolahkoding.com sejak 2015Saat ini sudah ada 1000 
 date = "2018-02-22T09:52:13Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Saya membuat sekolahkoding.com sejak 2015

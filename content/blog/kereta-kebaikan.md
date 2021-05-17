@@ -5,7 +5,7 @@ description = "Kereta kebaikan katanya tidak menarik ,tujuannya indah, sedikit y
 date = "2017-06-22T19:23:04Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Kereta kebaikan katanya tidak menarik ,

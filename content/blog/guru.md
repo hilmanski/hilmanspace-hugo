@@ -5,7 +5,7 @@ description = "Skill yang bisa dengan mudah dipelajari (diajarkan), berarti akan
 date = "2020-01-21T05:00:00Z"
 featured_image = "https://i.ibb.co/gtRdMDk/Screen-Shot-2020-01-20-at-10-42-02-AM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Skill yang bisa dengan mudah dipelajari (diajarkan), berarti akan mudah ditiru oleh orang lain. Karena itu kamu tidak bisa mengandalkan tempat umum sebagai satu-satunya sumber belajar seperti sekolah atau kampus. Karena materi yang diajarkan sama, semua orang mendapatkan hal yang sama. Lalu dari mana kita bisa mendapatkan ilmu yang spesial?

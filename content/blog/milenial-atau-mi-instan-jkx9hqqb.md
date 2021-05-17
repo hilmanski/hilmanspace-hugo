@@ -5,7 +5,7 @@ description = "Pada tahun 1967 komputer yang digunakan Nasa untuk mengirim roket
 date = "2018-08-17T08:34:52Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Pada tahun 1967 komputer yang digunakan Nasa untuk mengirim roket ke bulan, hanya 1/36000 dari kekuatan komputer yang ada di smartphone sekarang 

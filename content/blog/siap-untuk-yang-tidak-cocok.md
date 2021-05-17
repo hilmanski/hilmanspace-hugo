@@ -5,7 +5,7 @@ description = "Seni dalam hidup, tidak cukup hanya dengan mempersiapkan apa yang
 date = "2019-08-05T08:37:16Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Seni dalam hidup, tidak cukup hanya dengan mempersiapkan apa yang kita mau. Karena sehari-hari penuh dengan hal-hal yang tidak bisa kendalikan. Tambahkan skill: siap dengan yang tidak cocok: 

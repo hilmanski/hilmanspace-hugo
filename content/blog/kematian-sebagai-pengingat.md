@@ -5,7 +5,7 @@ description = "Bagaimana kalau kamu meninggal hari ini? Apakah karya kamu akan d
 date = "2019-04-09T07:39:33Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Bagaimana kalau kamu meninggal hari ini? 

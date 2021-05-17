@@ -5,7 +5,7 @@ description = "Bukan apa yang sedang populerTapi kerjakan apa yang pentingIkut a
 date = "2018-02-14T21:11:06Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Bukan apa yang sedang populer

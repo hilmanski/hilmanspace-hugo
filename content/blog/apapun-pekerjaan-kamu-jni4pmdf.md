@@ -5,7 +5,7 @@ description = "Yang perlu dipelajari apapun kerjaan kamu:Bahasa Inggris: ada ban
 date = "2018-10-21T08:23:36Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Yang perlu dipelajari apapun kerjaan kamu:

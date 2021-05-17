@@ -5,7 +5,7 @@ description = "Seorang anak kecil sangat senang dengan yang manis dan minuman be
 date = "2019-04-22T10:47:14Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Seorang anak kecil sangat senang dengan yang manis dan minuman bersoda.

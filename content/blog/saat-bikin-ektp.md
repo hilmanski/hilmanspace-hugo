@@ -5,7 +5,7 @@ description = "Antrian di kantor sipil sudah amburadul, semua orang ingin dilaya
 date = "2018-03-26T14:34:30Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Antrian di kantor sipil sudah amburadul, semua orang ingin dilayani dengan ramah

@@ -5,7 +5,7 @@ description = "Bukan hal yang baru seorang anak marah atau ngambek ke orang tuan
 date = "2019-10-17T16:00:00Z"
 featured_image = "https://i.ibb.co/BNQQM18/Screen-Shot-2019-10-16-at-7-34-06-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Saya sering mendengar curhat-an orang lain kalau orang tua mereka tidak paham dengan apa yang ada di pikirannya. Kalau kamu ada di posisi yang sama, coba cek lagi, mungkin pekerjaan orang tua kamu bukan dukun dan peramal, makanya mereka tidak langsung tahu apa yang ada di pikiran kamu.

@@ -5,7 +5,7 @@ description = "Seorang peternak ayam mendengar kabar kalau telur emas dijual seh
 date = "2018-12-21T17:38:22Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Seorang peternak ayam mendengar kabar kalau telur emas dijual seharga 10 juta, sementara telus biasa hanya berharga 10 ribu. Mendengar hal ini setiap hari, ia memerika ayam-ayamnya. Dia tidak lagi tertarik dengan telur biasa, setiap ada ayam yang bertelur, telurnya dibuang, dipecahkan, "untuk apa" pikirnya kalau dia bisa mendapat 10 juta sekaligus.

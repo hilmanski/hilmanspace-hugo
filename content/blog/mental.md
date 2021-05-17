@@ -5,7 +5,7 @@ description = "Tidak terlihat seperti penyakit fisik yang lain, sakit secara men
 date = "2019-10-21T12:30:00Z"
 featured_image = "https://i.ibb.co/pJFy84W/Screen-Shot-2019-10-21-at-11-07-03-AM.png"
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Saat ditanya "di mana kamu banyak menghabiskan waktu sekarang" pada salah satu wawancaranya, Elizabeth Gilbert, penulis buku best seller, menjawab bahwa pekerjaannya sekarang adalah fulltime menjaga kesehatan mentalnya. Sekilas mungkin terlihat berlebihan, kenapa sih harus fulltime menjaga kesehatan mental kita?
 

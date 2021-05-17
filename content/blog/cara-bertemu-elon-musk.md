@@ -5,7 +5,7 @@ description = "Kalau kamu tidak tahu siapa Elon Musk, coba google sedikit, kamu 
 date = "2019-08-01T17:46:10Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kalau kamu tidak tahu siapa Elon Musk, coba google sedikit, kamu akan menemukan seorang Tony Stark di dunia nyata. Elon Musk sadar hal yang dia lakukan sangat kompleks dan tidak bisa dipahami begitu saja oleh orang awam. Suatu hari dia memutuskan untuk berdiskusi dengan seorang penulis Blog untuk dituliskan beberapa hal yang ia kerjakan agar mudah dimengerti oleh orang kebanyakan.

@@ -5,7 +5,7 @@ description = "Terserah anak kecil yang sedang bermain dia ingin membuat apa, di
 date = "2018-12-19T08:34:57Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Terserah anak kecil yang sedang bermain dia ingin membuat apa, dinosaurus, robot atau kapal. Lego bisa dia susun sesuai dengan yang ada di kepalanya.

@@ -5,7 +5,7 @@ description = "Dua orang yang berbicara, belum tentu saling mendengarkanSebagian
 date = "2018-09-23T21:47:58Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Dua orang yang berbicara, belum tentu saling mendengarkan

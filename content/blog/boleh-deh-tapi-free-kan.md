@@ -5,7 +5,7 @@ description = "Boleh deh, tapi free kan?Berapa banyak waktu dan uang yang dipake
 date = "2018-02-20T17:31:57Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Boleh deh, tapi free kan?

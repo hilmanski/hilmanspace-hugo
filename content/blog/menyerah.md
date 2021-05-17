@@ -5,7 +5,7 @@ description = "Kapan waktu yang tepat untuk kamu menyerah dari usahamu? apakah b
 date = "2018-11-16T07:05:46Z"
 featured_image = ""
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Sering mendengar kata motivasi "jangan menyerah?", saya coba tawarkan hal baru untuk kamu, belajarlah menyerah. Saya sudah sering membuat proyek. Sebagian besar berupa website dan sebagain besar juga tidak bertahan. Kapan sebenarnya waktu yang tepat untuk kita menyerah di suatu proyek?
 

@@ -5,7 +5,7 @@ description = "Setiap hari kita berangan-angan, ingin ini dan ingin itu. Bisnis 
 date = "2019-08-01T17:46:51Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Setiap hari kita berangan-angan, ingin ini dan ingin itu. Bisnis ingin mengalahkan rival, Jumlah follower ingin berjuta-juta, gaji ingin jauh lebih banyak. Ada dua hal yang sering terjadi:

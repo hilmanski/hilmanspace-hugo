@@ -5,7 +5,7 @@ description = "Banyak pendapat kita yang terbentuk oleh tontonan, tontonan menga
 date = "2020-05-29T16:00:00Z"
 featured_image = "https://i.ibb.co/YPncKnn/Screen-Shot-2020-05-29-at-9-46-13-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Banyak pendapat kita yang terbentuk oleh tontonan  

@@ -5,7 +5,7 @@ description = "Internet meningkatkan kesempatan kita untuk bertanya kepada artis
 date = "2019-02-26T07:05:04Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Internet meningkatkan kesempatan kita untuk bertanya kepada artis terkenal / politisi / orang hebat  menjadi lebih besar. Betul, semua bisa bertanya, melalui mention di sosial media, private message atau via email yang ditemukan, tapi bukan berarti orang ini akan menjawabnya begitu saja.

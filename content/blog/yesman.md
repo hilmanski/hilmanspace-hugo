@@ -5,7 +5,7 @@ description = "Saat kamu didukung oleh banyak orang, bukan berarti kamu ada di p
 date = "2019-10-12T16:00:00Z"
 featured_image = "https://i.ibb.co/997fCfr/Screen-Shot-2019-10-11-at-7-31-35-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Ketika kamu ada di posisi tertentu, entah karena jabatannya di suatu perusahaan/organisasi atau seorang influencer yang punya pengaruh, bukan hal aneh kalau akan banyak "yes man atau yes woman" yang akan hadir.

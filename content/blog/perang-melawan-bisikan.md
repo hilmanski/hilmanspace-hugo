@@ -5,7 +5,7 @@ description = "Halo Halo Bandung! Makassar, Jayapura dan semua kota yang tidak b
 date = "2017-11-20T18:26:54Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Halo Halo Bandung! Makassar, Jayapura dan semua kota yang tidak bisa saya sebutkan satu per satu, semoga sehat seperti para atlet yang sedang berlaga. Masih bersama saya, Hilmen di TehAtauKopi !

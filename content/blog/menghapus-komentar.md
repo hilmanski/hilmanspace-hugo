@@ -5,7 +5,7 @@ description = "Hari ini saya menghilangkan komentar (disqus) di setiap blog post
 date = "2018-11-07T12:50:55Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Hari ini saya menghilangkan komentar (disqus) di setiap blog post tehatuakopi, [blog pribadi](https://hilman.space) atau website lainnya.

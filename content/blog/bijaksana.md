@@ -5,7 +5,7 @@ description = "William Sharekspeare menuliskan 'Orang bodoh merasa dirinya sanga
 date = "2018-11-12T20:49:47Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 William Sharekspeare menuliskan "Orang bodoh merasa dirinya sangat bijak, tapi orang bijak merasa dirinya bodoh"

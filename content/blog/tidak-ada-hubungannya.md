@@ -5,7 +5,7 @@ description = "Setiap orang punya kekurangan. Hanya karena kamu merasa tidak sem
 date = "2019-02-04T15:29:06Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Setiap orang punya kekurangan. Hanya karena kamu merasa tidak sempurna, kamu jadi tidak berani berbuat baik atau berkarya. Saat kamu tahu semua orang punya kekurangan, tidak boleh lagi ada alasan.

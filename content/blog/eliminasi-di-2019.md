@@ -5,7 +5,7 @@ description = "Kalau orang punya resolusi menambahkan sesuatu di awal tahun yang
 date = "2019-01-01T11:34:48Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Kalau orang punya resolusi menambahkan sesuatu di awal tahun yang baru. Saya ingin mengurangi dan memilih fokus ke hal tertentu.

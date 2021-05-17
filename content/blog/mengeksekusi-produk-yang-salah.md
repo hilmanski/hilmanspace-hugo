@@ -5,7 +5,7 @@ description = "Saat merencanakan membuat proyek berikutnyaSebagian memikirkan na
 date = "2018-11-16T14:33:31Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Saat merencanakan membuat proyek berikutnya

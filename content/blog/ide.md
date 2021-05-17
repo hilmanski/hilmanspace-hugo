@@ -5,7 +5,7 @@ description = "Pernah dengar seorang teman yang berkomentar “wah itu padahal i
 date = "2019-11-24T12:40:00Z"
 featured_image = "https://i.ibb.co/Km9m58X/Screen-Shot-2019-11-24-at-8-32-30-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Pernah dengar seorang teman yang berkomentar “wah itu padahal ide saya yang sudah lama” ketika melihat sebuah produk yang sekarang berhasil ?  Dia merasa spesial karena sudah pernah punya ide tersebut, dia merasa idenya dicuri,  ada juga yang merasa bangga saat “idenya” berhasil dijalankan orang lain. Mungkin bukan teman, tapi kamu sendiri pernah mengalaminya. Punya ide yang berhasil dieksekusi oleh orang lain. Saya akan beritahu hal yang menyedihkan “ide tidak ada artinya”.

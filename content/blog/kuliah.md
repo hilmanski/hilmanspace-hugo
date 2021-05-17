@@ -5,7 +5,7 @@ description = "Apakah kuliah adalah satu-satunya jalan untuk punya masa depan ya
 date = "2018-11-15T02:55:49Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Jalan yang akan saya jelaskan bukan untuk semua orang, kalau kamu senang mengumpulkan seritifikat atau merasa dengan tambahan gelar lebih terhormat, tidak perlu melanjutkan untuk membaca.

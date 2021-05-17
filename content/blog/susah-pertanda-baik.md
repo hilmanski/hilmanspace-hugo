@@ -5,7 +5,7 @@ description = "Mengerjakan proyek yang baru atau belajar hal yang baru membuat k
 date = "2019-06-28T10:45:41Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Mengerjakan proyek yang baru atau belajar hal yang baru membuat kita semangat

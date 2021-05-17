@@ -5,7 +5,7 @@ description = "Sebagai seorang muslim, saya tidak main-main untuk urusan rezeki,
 date = "2015-12-10T12:03:20Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Banyak yang bertanya masalah kehalalan atau bolehkah memasang google adsense pada website atau channel youtube. Saya sendiri punya website [sekolahkoding.com](https://sekolahkoding.com/) dan channel Youtube. Saya pada posisi yang sama, punya layanan yang bisa diiklankan (dapet duit) tapi sangat ragu, apakah boleh memasang adsense pada website. Sekarang juga bermuncul pakar-pakar atau tutorial-tutorial yang mengajarkan bagaimana mendapatkan penghasilan dari internet, salah satunya dari google adsense ini. Kalau sudah masalah penghasilan, jangan main-main, efeknya bisa kemana-mana kalau tidak hati-hati menjaga kehalalannya. Dalam post ini sendiri saya sama sekali tidak ada dalam posisi dan kapasitas untuk menentukan halal-haramnya.

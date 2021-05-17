@@ -5,7 +5,7 @@ description = "Kesalahan terbesar saat membuat target, adalah menyiksa diri send
 date = "2018-10-24T18:58:12Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Kesalahan terbesar saat membuat target, adalah menyiksa diri sendiri
 

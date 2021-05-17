@@ -5,7 +5,7 @@ description = "Apakah yang kamu kerjakan susah? kamu mau nyerah? semuanya sudah 
 date = "2018-11-13T16:34:54Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Apakah yang kamu kerjakan susah? kamu mau nyerah? semuanya sudah ngga masuk akal? 

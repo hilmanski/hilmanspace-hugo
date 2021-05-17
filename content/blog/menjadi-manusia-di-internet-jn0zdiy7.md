@@ -5,7 +5,7 @@ description = "Adrian Holovaty, penulis Django (salah satu framework populer unt
 date = "2018-10-09T08:22:09Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Adrian Holovaty, penulis Django (salah satu framework populer untuk menulis program di website), sangat cinta dengan bermain gitar, ia terus mengupload videnya bermain gitar di youtube mengcover berbagai lagu.

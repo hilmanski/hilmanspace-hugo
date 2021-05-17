@@ -5,7 +5,7 @@ description = "Di dalam bahasa inggris ada banyak kata untuk pekerjaanAda job, o
 date = "2018-05-24T10:23:30Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Di dalam bahasa inggris ada banyak kata untuk pekerjaan

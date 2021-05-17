@@ -5,7 +5,7 @@ description = "'Orang yang paling banyak gagal, akan menang' - Seth GodinSayangn
 date = "2018-09-11T08:00:12Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 "Orang yang paling banyak gagal, akan menang" - Seth Godin

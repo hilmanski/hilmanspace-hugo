@@ -5,7 +5,7 @@ description = "Kata viral sudah sangat viral (sengaja :P). Orang-orang tertarik 
 date = "2019-03-20T20:35:17Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kata viral sudah sangat viral (sengaja :P). Orang-orang tertarik untuk membuat konten yang bisa viral, di instagram, twitter atau facebook. Ada yang mengambil konten orang lain, ada yang menampilkan wanita seksi dan berbagai usaha dilakukan agar bisa .. ehm.. viral.

@@ -5,7 +5,7 @@ description = "Sepanjang pertandingan Jack Brabham dan Bruce McLaren bersaing ke
 date = "2018-08-17T11:30:43Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Sepanjang pertandingan Jack Brabham dan Bruce McLaren bersaing ketat dalam formula 1 (f1) di tahun 1959. Sayangnya mobil Jack berhenti di akhir-akhir balapan.

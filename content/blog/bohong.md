@@ -5,7 +5,7 @@ description = "Kamu bisa berpura pura di depan semua orang, berakting menjadi or
 date = "2020-08-19T16:00:00Z"
 featured_image = "https://i.ibb.co/1rzGmSs/Screen-Shot-2020-08-17-at-8-38-35-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Masih butuh pengakuan orang lain untuk bahagia  

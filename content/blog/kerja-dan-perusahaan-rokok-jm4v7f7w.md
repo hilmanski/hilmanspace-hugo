@@ -5,7 +5,7 @@ description = "Kalau kamu programmerkamu bisa kerja di perusahaan semen, menguru
 date = "2018-09-16T20:56:48Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Kalau kamu programmer

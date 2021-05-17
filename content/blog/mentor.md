@@ -5,7 +5,7 @@ description = "Ini salah satu alasan favorit yang saya baca. Memang bagus punya 
 date = "2019-10-03T08:00:00Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Ini salah satu alasan favorit yang saya baca. Memang bagus punya mentor, tapi tidak semua dari kamu punya kesempatan untuk punya mentor. Sekarang apakah tidak punya mentor berarti harus menyerah? jelas tidak!

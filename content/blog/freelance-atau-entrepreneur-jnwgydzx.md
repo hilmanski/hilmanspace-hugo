@@ -5,7 +5,7 @@ description = "Orang-orang keluar dari pekerjaannya karena ingin menjadi pengusa
 date = "2018-10-31T09:15:07Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Orang-orang keluar dari pekerjaannya karena ingin menjadi pengusaha (entrepreneur), waktunya bebas tidak terikat dan bisa mengerjakan apa yang dia mau. Sayangnya cerita tidak seindah dongeng, banyak yang tertukar antara freelance dan pengusaha.

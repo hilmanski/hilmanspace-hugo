@@ -5,7 +5,7 @@ description = "Perasaan tidak pantas untuk mendapatkan sesuatu meskipun keahlian
 date = "2019-08-17T16:00:00Z"
 featured_image = "https://i.ibb.co/QnP5mj8/Screen-Shot-2020-01-06-at-8-37-07-PM.png"
 tags = ""
-draft = true
+draft = false
 +++ 
 Meskipun saya sudah mengajar programming selama kurang lebih 4 tahun (2019), perasaan “saya tidak pantas melakukan ini ” tetap sering hadir. Perasaan ini bisa membuat saya stress yang berlanjut dengan berhenti belajar, membuat materi apalagi mengajar. Hal yang sama saat saya diundang di suatu acara untuk berbagi, entah judulnya pembicara, juri atau yang lain.. perasaan “saya menipu orang lain” akan muncul, seakan-akan hanya menunggu ada yang membuka topeng yang saya pakai dan semua orang akhirnya tahu.. saya tidak bisa apa-apa.
 

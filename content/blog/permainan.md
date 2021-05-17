@@ -5,7 +5,7 @@ description = "Kita bisa melakukan apa saja, tapi tidak bisa melakukan semuanya.
 date = "2019-11-05T16:00:00Z"
 featured_image = "https://i.ibb.co/Zhg0FSx/Screen-Shot-2019-11-04-at-4-30-10-PM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Seorang juara dunia "youth scrabble champion 2011" berumur 11 tahun bernama Anand Bharadwaj sedang bertanding dalam permainan [scrabble](https://en.wikipedia.org/wiki/Scrabble) dengan pria berumur 50an tahun, Nigel Richards. Kalau ini film-film, mungkin ceritanya akan berakhir dengan anak jenius ini juara dan mengalahkan Nigel. Sayangnya tidak.

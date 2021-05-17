@@ -5,7 +5,7 @@ description = "kalau kamu mau mulai menulis tapi bingung untuk apa saya harus me
 date = "2019-03-05T16:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Saya tidak membuat karya hanya untuk mendapatkan komentar, apalagi sekadar pujian "luar biasa", "keren" dan lainnya. Saya sedang belajar: menulis hanya untuk menulis. Bagaimana dengan jumlah pengunjung website?  saya juga tidak peduli berapa banyak orang yang baca, saya akan tetap menulis. (saya menggunakan analytics untuk keperluan lain)

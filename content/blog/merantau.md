@@ -5,7 +5,7 @@ description = "Bagaimana cara kita bisa membangun daerah masing-masing? apakah p
 date = "2019-02-12T16:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Kamu merasa orang-orang di kota besar lebih beruntung? lebih pintar? lebih segalanya? Dibanding mengeluh dengan daerahmu yang tidak maju, jauh lebih baik kalau kamu mulai melakukan sesuatu yang lebih berpengaruh. Di artikel ini saya mencoba menawarkan satu dari banyak solusi yang bisa kamu coba.

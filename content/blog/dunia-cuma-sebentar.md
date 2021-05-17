@@ -5,7 +5,7 @@ description = "Dunia cuma sebentarSiapkan bekal untuk berikutnyaTinggalkan ilmuK
 date = "2018-02-11T22:16:24Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Dunia cuma sebentar

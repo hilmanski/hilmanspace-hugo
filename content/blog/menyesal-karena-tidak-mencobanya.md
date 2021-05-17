@@ -5,7 +5,7 @@ description = "Mumpung masih ada waktu, kerjakan hal yang ingin kamu kerjakanKat
 date = "2019-08-29T08:00:00Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Mumpung masih ada waktu, kerjakan hal yang ingin kamu kerjakan

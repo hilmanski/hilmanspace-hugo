@@ -5,7 +5,7 @@ description = "Kalau kamu ngga dapat software yang kamu butuhBikin software yang
 date = "2018-09-23T22:35:34Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
 
 Kalau kamu ngga dapat software yang kamu butuh

@@ -5,7 +5,7 @@ description = "apakah kehidupan kita ini ada pemeran utamanya seperti film? Kala
 date = "2019-08-14T16:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Aktor atau Pemeran (Menurut KBBI) adalah Orang yang memerankan sesuatu dalam film, sandiwara;

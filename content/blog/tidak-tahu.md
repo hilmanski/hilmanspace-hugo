@@ -5,7 +5,7 @@ description = "'Orang bijak tidak takut kekurangan pengetahuan, ragu-ragu atau k
 date = "2018-11-22T14:25:35Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 "Orang bijak tidak takut kekurangan pengetahuan, ragu-ragu atau kerja keras, tapi dia takut satu hal: -Pura-pura tahu apa yang dia tidak tahu-

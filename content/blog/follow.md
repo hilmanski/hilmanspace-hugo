@@ -5,7 +5,7 @@ description = "siapa yang kamu follow di sosial media? apakah penting menentukan
 date = "2019-10-08T16:00:00Z"
 featured_image = "https://i.ibb.co/sVGqdZk/Screen-Shot-2019-10-09-at-1-47-17-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Saya punya _love and hate relationship_ dengan [sosial media,](https://hilman.space/sosmed/) di satu sisi saya memanfaatkannya untuk mengenal orang-orang yang saya idolakan, berhubungan dengan pendengar tehataukopi, pembaca blog atau teman-teman di sekolahkoding, di sisi lain, sosmed punya magnet yang luar biasa untuk terus menarik kamu ke dalamnya, meskipun ada pekerjaan yang lebih penting.
 

@@ -5,7 +5,7 @@ description = "Bagaimana kamu mengukur sukses? diwawancara dan masuk koran? dili
 date = "2018-11-01T11:39:08Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Bagaimana kamu mengukur sukses? diwawancara dan masuk koran? diliput televisi? atau kemana-mana bisa dikenal orang?

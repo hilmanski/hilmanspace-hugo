@@ -5,7 +5,7 @@ description = "Mudah untuk bersembunyi dan menghindar.Saat ada masalah yang terj
 date = "2019-01-08T18:09:14Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Mudah untuk bersembunyi dan menghindar.

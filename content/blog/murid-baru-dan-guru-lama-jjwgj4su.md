@@ -5,7 +5,7 @@ description = "Orang yang baru belajar beladiriPunya kecendrungan untuk menendan
 date = "2018-07-22T14:24:26Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Orang yang baru belajar beladiri

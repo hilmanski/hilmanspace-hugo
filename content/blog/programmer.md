@@ -5,7 +5,7 @@ description = "Kenapa sih indonesia butuh banyak programmer? apakah betul kita k
 date = "2016-06-23T12:12:25Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 1. Programmer bisa bikin tugas yang sebelumnya manual menjadi automatis, usaha kamu akan jauh lebih produktf. Bayangkan berapa biaya, waktu dan tenaga yang bisa dihemat dengan ini.

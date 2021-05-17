@@ -5,7 +5,7 @@ description = "Saat masih kecil, Tim Ferriss tidak tertarik untuk belajar alfabe
 date = "2019-04-09T08:21:22Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Saat masih kecil, Tim Ferriss tidak tertarik untuk belajar alfabet, sampai ia bertemu seorang guru yang menjelaskan, "kalau kamu bisa membaca alfabet, kamu bisa membaca buku apapun yang kamu mau!". Tim kecil pun kesal, kenapa sampai saat ini baru ada yang memberitahunya untuk apa belajar alfabet.

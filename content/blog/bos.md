@@ -5,7 +5,7 @@ description = "Kamu seorang freelancer? atau anak startup yang sedang membuat pr
 date = "2019-10-24T04:00:00Z"
 featured_image = "https://i.ibb.co/jbp6t8M/Screen-Shot-2019-10-22-at-10-55-05-AM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Sebagian orang bermimpi mau bekerja sebebas mungkin, tanpa bos yang mengatur jadwal dan pekerjaannya.
 

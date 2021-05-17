@@ -5,7 +5,7 @@ description = "Mahatma Gandhi tahu untuk menghubah dunia ada banyak hal yang tid
 date = "2018-11-16T14:46:53Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Mahatma Gandhi tahu untuk menghubah dunia ada banyak hal yang tidak terduga dan tidak bisa kamu kontrol. Dia juga tahu, ada hal yang bisa kamu kuasai sekarang, yaitu diri kamu sendiri.

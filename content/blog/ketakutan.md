@@ -5,7 +5,7 @@ description = "'Fear does not prevent death. It prevents life' Naguib Mahfouz'Ra
 date = "2018-06-18T14:12:20Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 "Fear does not prevent death. It prevents life" Naguib Mahfouz

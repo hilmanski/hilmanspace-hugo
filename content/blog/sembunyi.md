@@ -5,7 +5,7 @@ description = "Sudah berapa lama kamu sembunyi dari skill yang kamu punyaSudah b
 date = "2018-08-17T08:55:17Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Sudah berapa lama kamu sembunyi dari skill yang kamu punya

@@ -5,7 +5,7 @@ description = "Doug Dietz seorang desainer yang bekerja di GE bagian kesehatan m
 date = "2018-11-21T09:37:38Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Doug Dietz seorang desainer yang bekerja di GE bagian kesehatan mengingat saat pertama kali melihat seorang gadis kecil masuk ke mesin MRI (Magnetic resonance imaging) untuk meng-"scan" isi badan. Gadis ini menangis, Doug yang mendesign alat ini merasa sangat terpukul.

@@ -5,7 +5,7 @@ description = "Kita terbiasa mendapatkan semua dengan instanPesan makanan bisa m
 date = "2018-04-08T10:50:57Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Kita terbiasa mendapatkan semua dengan instan

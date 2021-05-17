@@ -5,7 +5,7 @@ description = "Ada banyak pertanyaan yang Julia Cameron dapatkan saat mengenalka
 date = "2019-02-26T06:53:47Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Ada banyak pertanyaan yang Julia Cameron dapatkan saat mengenalkan dunia kreativitas. 

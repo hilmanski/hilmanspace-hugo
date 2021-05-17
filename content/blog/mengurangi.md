@@ -5,7 +5,7 @@ description = "Orang-orang pusing menambahkan apa lagi di bisnis, feature apa la
 date = "2018-09-08T08:13:31Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
 
 Orang-orang pusing menambahkan apa lagi:  

@@ -5,7 +5,7 @@ description = "Banyak yang ngeluh, waktunya ngga cukupPadahal semua orang porsi 
 date = "2018-02-09T18:23:30Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Banyak yang ngeluh, waktunya ngga cukup

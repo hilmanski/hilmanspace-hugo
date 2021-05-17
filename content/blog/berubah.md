@@ -5,7 +5,7 @@ description = "Ray Dalio, di bukunya principle mengingatkan tentang hadiahBukan 
 date = "2018-03-08T10:19:59Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Ray Dalio, di bukunya principle mengingatkan tentang hadiah

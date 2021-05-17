@@ -5,7 +5,7 @@ description = "kumpulan cerita pendek (cerpen) mengenai kehidupan manusia di ten
 date = "2019-09-12T16:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Halo semuanya! kalau kamu suka baca cerita pendek, coba baca ini ya, "cerpen alfabet" bertema seputar menjadi manusia lagi di tengah badai teknologi ini.

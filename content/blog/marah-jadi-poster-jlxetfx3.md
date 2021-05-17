@@ -5,7 +5,7 @@ description = "Alexis Ohanian bersama Steve Huffman saat itu belum siapa-siapa,m
 date = "2018-09-11T15:43:38Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Alexis Ohanian bersama Steve Huffman saat itu belum siapa-siapa,

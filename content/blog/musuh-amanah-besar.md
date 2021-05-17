@@ -5,7 +5,7 @@ description = "Amanah yang besar punya musuh besarNamanya egoisKetika kita dapat
 date = "2018-04-11T21:11:44Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Amanah yang besar punya musuh besar

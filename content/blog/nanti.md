@@ -5,7 +5,7 @@ description = "Terus tunda apa yang bisa kamu kerjakan hari ini. Karena kamu tah
 date = "2019-11-28T13:00:00Z"
 featured_image = "https://i.ibb.co/PMmfpjf/Screen-Shot-2019-11-28-at-4-03-35-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Kalau ada satu kesalahan yang kita tidak pernah belajar, mungkin bagaimana mudahnya kita melewati kesempatan setiap hari. Seakan-akan kita tahu kapan kita akan pergi. Seakan-akan semua tugas sudah kita selesaikan, semua kesalahan sudah kita perbaiki, semua potensi sudah kita maksimalkan.. sekan-akan…

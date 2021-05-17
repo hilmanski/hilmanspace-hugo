@@ -5,7 +5,7 @@ description = "Banyak yang bilang sebentar lagi semua permainan dan segala jenis
 date = "2019-03-20T20:44:27Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Banyak yang bilang sebentar lagi semua permainan dan segala jenis hiburan akan berpindah ke 'virtual reality', tinggal menggunakan kacamata (atau device lainnya) dan kamu ada di dunia yang berbeda! melihat pemandangan atau arena yang disimulasikan oleh mesin, seakan-akan kamu berada langsung disana.

@@ -5,7 +5,7 @@ description = "Refleksi menjalankan tehataukopi dua tahun ini"
 date = "2019-11-23T16:00:00Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Tidak terasa (eh, terasa ko’ ), sudah dua tahun [tehataukopi](https://tehataukopi.club/) berjalan. TAK menjadi salah satu proyek saya yang bertahan, dimana normalnya saya mengerjakan sesuatu, beberapa hari atau bulan kemudian sudah tamat. Selalu menarik punya proyek sampingan yang bisa berjalan dan ada yang menikmatinya.

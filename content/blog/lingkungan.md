@@ -5,7 +5,7 @@ description = "Kalau masalah-masalah produktivitas di bagian sebelumnya adalah m
 date = "2020-04-19T16:00:00Z"
 featured_image = "https://i.ibb.co/6DCkjhk/Screen-Shot-2020-04-20-at-12-46-11-PM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Sering terdengar kalau “saya lagi tidak punya motivasi” sebagai alasan untuk tidak mengerjakan sesuatu. Ada rahasia menarik untuk kamu, lingkungan lebih penting dari motivasi.
 

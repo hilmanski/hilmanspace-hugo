@@ -5,7 +5,7 @@ description = "kamu mendengarkan saran A, tidak alam kemudian kamu mendapatkan s
 date = "2019-10-10T16:00:00Z"
 featured_image = "https://i.postimg.cc/d19Dq0Bv/Screen-Shot-2019-10-10-at-4-39-42-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Sekarang kamu mendengarkan saran A, tidak lama kemudian kamu mendapatkan saran B. Akhirnya bingung tidak tahu mau menggunakan saran yang mana dan akhirnya kamu diam tidak mengerjakan apa-apa.

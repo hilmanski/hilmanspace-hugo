@@ -5,7 +5,7 @@ description = "Kapan terakhir kali kamu coba sesuatu yang baru ?  kamu tidak ber
 date = "2019-08-10T08:00:00Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kapan terakhir kali kamu coba sesuatu yang baru ?  kamu tidak berani? terlalu beresiko? bukannya sesuatu itu menarik karena dia menakutkan ? Lebih baik hidup dengan tantangan dibanding hidup membosankan,

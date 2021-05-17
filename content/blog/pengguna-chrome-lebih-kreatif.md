@@ -5,7 +5,7 @@ description = "Adam grant, full professor termudah di kampusnya, menjelaskan sal
 date = "2019-02-09T07:56:41Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Adam grant, full professor termudah di kampusnya, menjelaskan salah satu hasil penelitiannya, dimana pengguna browser Firefox dan Chrome "lebih baik" (secara performa kerja) dibanding pengguna Safari dan ehm.. Internet Explorer.

@@ -5,7 +5,7 @@ description = "saat kamu sedang dihadapkan masalah, secara instan kita akan meng
 date = "2019-10-11T16:00:00Z"
 featured_image = "https://i.ibb.co/WVS5KpL/Screen-Shot-2019-10-11-at-6-56-40-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Saat kamu sedang dihadapkan masalah, secara instan kita akan mengeluh dan sedih dengan masalah ini. Kita lupa hal yang lebih buruk bisa saja terjadi.

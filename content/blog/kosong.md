@@ -5,7 +5,7 @@ description = "kita sering terjebak dengan sibuk, mengiyakan setiap permintaan o
 date = "2019-10-10T02:00:00Z"
 featured_image = "https://i.ibb.co/Ntdhytx/think.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Kalau kamu tidak tahu mau ke mana, ada kemungkinan setiap tawaran orang di jalan akan kamu terima, yang penting jalan dulu, tidak peduli orangnya mau mengantar kamu ke mana. Apakah kamu sudah menentukan kamu mau jadi apa? atau apa yang mau kamu lakukan dengan hidup kamu?
 

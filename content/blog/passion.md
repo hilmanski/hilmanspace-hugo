@@ -5,7 +5,7 @@ description = "Saya tidak tahu caranya, yang saya tahu, kalau kamu:-Main game be
 date = "2019-07-31T08:54:21Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Saya tidak tahu caranya, yang saya tahu, kalau kamu:

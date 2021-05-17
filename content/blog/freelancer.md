@@ -5,7 +5,7 @@ description = "Freelancer dan entrepreneur dalah dua hal yang sangat berbeda. Un
 date = "2018-12-18T06:57:21Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Untuk teman-teman yang bekerja freelance (bergantung dengan client), ini ada insight menarik

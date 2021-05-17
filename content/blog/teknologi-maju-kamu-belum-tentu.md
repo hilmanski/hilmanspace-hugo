@@ -5,7 +5,7 @@ description = "Hanya karena semuanya sekarang instan dan mudah didapat, bukan be
 date = "2019-07-09T08:26:28Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Hanya karena semuanya sekarang instan dan mudah didapat, bukan berarti kamu bisa belajar sesuatu dengan cepat. Saya sadar saat mulai stress mempelajari sesuatu "kenapa ngga ngerti-ngerti" padahal media belajarnya ada di depan mata.

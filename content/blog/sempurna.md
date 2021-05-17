@@ -5,7 +5,7 @@ description = "Sudah lama merencanakan sesuatu, tapi tidak dibuat. Sudah mulai b
 date = "2020-05-02T16:00:00Z"
 featured_image = "https://i.ibb.co/KVvcXHW/Screen-Shot-2020-05-02-at-2-08-40-PM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 SEMPURNA.  

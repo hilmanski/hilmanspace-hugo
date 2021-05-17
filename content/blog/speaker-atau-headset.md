@@ -5,7 +5,7 @@ description = "Speaker mau didengar semua orang. Tidak peduli orang disampingnya
 date = "2018-11-23T09:26:25Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Speaker mau didengar semua orang. Tidak peduli orang disampingnya sedang tidur atau bekerja, semua harus mendengar suara dari speaker ini.

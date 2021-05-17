@@ -5,7 +5,7 @@ description = "kamu sudah baca banyak blog, nonton banyak video youtube, mengkon
 date = "2019-10-16T16:00:00Z"
 featured_image = "https://i.ibb.co/BKQx2sr/Screen-Shot-2019-10-16-at-8-21-52-AM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Kamu sudah baca banyak blog, nonton banyak video youtube, mengkonsumsi berbagai media belajar tapi tidak ada yang berubah dari hidup kamu. Akhirnya kamu stress, merasa bodoh dan tidak bisa apa-apa.

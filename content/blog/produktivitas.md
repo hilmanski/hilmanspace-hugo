@@ -5,7 +5,7 @@ description = "Seri blog produktivitas yang dipecah menjadi beberapa artikel, bi
 date = "2020-04-08T16:00:00Z"
 featured_image = "https://i.ibb.co/JkJXfLN/Screen-Shot-2020-04-09-at-1-50-51-PM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 \*Yeay! Tulisan ini sudah dimuat dalam PDF yang bisa kamu download [di sini](https://bit.ly/hilman-produktif)
 

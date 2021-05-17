@@ -5,7 +5,7 @@ description = "Orang-orang beraktivitas tapi ngga jelas tujuannya apa,Mahasiswa 
 date = "2018-01-03T18:28:42Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Orang-orang beraktivitas tapi ngga jelas tujuannya apa,

@@ -5,7 +5,7 @@ description = "masalah kenapa banyak orang yang terus ribut adalah komunikasi ya
 date = "2019-10-16T09:00:00Z"
 featured_image = "https://i.ibb.co/wdqxmZ7/Screen-Shot-2019-10-16-at-7-33-02-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Antar teman, dosen ke mahasiswa, pemilik bisnis ke pengguna, orang tua ke anak atau setiap interaksi yang ada memerlukan komunikasi. Bukan hanya komunikasi, tapi _komunikasi yang jelas._ Tidak jarang dua pihak berkelahi hanya karena asumsi di kepala masing-masing.

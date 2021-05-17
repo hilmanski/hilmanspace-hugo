@@ -5,7 +5,7 @@ description = "hacking adalah istilah yang populer untuk mencari jalan lain alia
 date = "2019-10-11T09:00:00Z"
 featured_image = "https://i.ibb.co/1b28tPb/don-think.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Setelah kamu menentukan tugas mana yang penting, atau saat kamu sudah komitmen untuk melakukan sesuatu, sayangnya masalahnya belum berhenti di sana, pada saat waktunya datang akan muncul rasa malas untuk melaksanakannya.
 

@@ -5,7 +5,7 @@ description = "Bias kognitif (Cognitive bias) adalah kesalahan dalam cara berpik
 date = "2019-10-23T13:00:00Z"
 featured_image = "https://i.ibb.co/m8t7tVd/Screen-Shot-2019-10-21-at-5-02-06-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 “Jangan membodohi diri sendiri dan kamu adalah orang yang paling mudah untuk dibodohi” - Richard Feynman.
 

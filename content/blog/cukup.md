@@ -5,7 +5,7 @@ description = "Bagaimana cara hidup cukup agar kamu tidak lagi khawatir berlebih
 date = "2020-01-01T16:00:00Z"
 featured_image = "https://i.ibb.co/fqrhJQb/Screen-Shot-2020-01-02-at-9-30-43-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Salah satu cara paling sederhana untuk menikmati hidup: “Pertahankan standar hidup kamu” Saat uang lebih banyak, kamu tidak wajib tinggal di tempat yang lebih mewah, naik kendaraan lebih cantik atau makan lebih mahal.
 

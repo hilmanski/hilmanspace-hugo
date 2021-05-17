@@ -3,8 +3,6 @@ title = "kontak hilmanski"
 slug = "kontak"
 description = "kontak hilmanski"
 date = "2021-05-10T12:03:20Z"
-featured_image = ""
-draft = true
 type = "page"
 layout = "custompage"
 +++ 

@@ -5,7 +5,7 @@ description = "Salah satu alasan kenapa tehataukopi dibuat cukup egois, untuk sa
 date = "2019-01-04T11:43:55Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Salah satu alasan kenapa tehataukopi dibuat cukup egois, untuk saya sendiri.

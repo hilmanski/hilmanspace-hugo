@@ -5,7 +5,7 @@ description = "Saat sedang tidak mengerjakan sesuatu, alasan terfavorit adalah s
 date = "2018-12-12T14:57:01Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Saat sedang tidak mengerjakan sesuatu, alasan terfavorit adalah sedang tidak ada motivasi. 

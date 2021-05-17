@@ -5,7 +5,7 @@ description = "Lawakan terdiri dari dua hal, set up dan punchline. Set up: memul
 date = "2018-11-26T06:49:32Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Lawakan terdiri dari dua hal, set up dan punchline. Set up: memulai cerita yang menarik orang-orang untuk memperhatikan, sementara Punchline: bagian yang membuat orang tertawa, sesuatu yang tidak terduga yang hadir dari setup sebelumnya.

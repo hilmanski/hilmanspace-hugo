@@ -5,7 +5,7 @@ description = "Bagaimana kita bisa menjadi kaya tanpa beruntung sebagai orang bi
 date = "2019-01-02T16:00:00Z"
 featured_image = ""
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Naval, seorang investor dan filsuf (pemikir) nge-tweet tentang “Bagaimana cara menjadi kaya (tanpa beruntung)”. Sangat relevan termasuk untuk yang tinggal di Indonesia. Idenya sendiri teman-teman bisa temukan dari Warren Buffet, Tim Ferriss, dll, ditambah dengan beberapa pemikiran dari Naval.
 

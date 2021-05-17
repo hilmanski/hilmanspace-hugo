@@ -5,7 +5,7 @@ description = "Belajar cara belajar sangatlah penting apapun pekerjaan yang ingi
 date = "2018-09-18T09:11:48Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Yang pertama kita bahas adalah cara belajar, yang kedua dalah aturan-main belajar

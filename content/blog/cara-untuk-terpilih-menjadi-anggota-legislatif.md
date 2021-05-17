@@ -5,7 +5,7 @@ description = "Pernah dengar caleg (calon anggota legislatif) ? kalau belum, cal
 date = "2019-09-03T20:53:25Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Pernah dengar caleg (calon anggota legislatif) ? kalau belum, caleg adalah foto di banyak baliho yang tidak dikenal di jalanan, yang muncul 5 tahun sekali dengan berbagai slogan kebaikan ingin mengubah indonesia dan membela rakyat.

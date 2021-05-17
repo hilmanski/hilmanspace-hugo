@@ -5,7 +5,7 @@ description = "Kalau kita lihat ke atasLangit kelihatan sangat sangat indahSalah
 date = "2018-02-28T07:10:34Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kalau kita lihat ke atas

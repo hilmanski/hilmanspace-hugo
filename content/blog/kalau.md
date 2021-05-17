@@ -5,7 +5,7 @@ description = "bagaimana kalau saya kontak presiden? bagaimana kalau saya melama
 date = "2020-08-18T16:00:00Z"
 featured_image = "https://i.ibb.co/wY8g7jb/Screen-Shot-2020-08-17-at-2-32-34-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 * Bagaimana kalau saya email presiden?

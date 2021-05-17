@@ -5,7 +5,7 @@ description = "Belajar mengurangi gangguan sekecil apapun, baik itu notifikasi h
 date = "2020-04-16T16:00:00Z"
 featured_image = "https://i.ibb.co/9h97NFq/Screen-Shot-2020-04-16-at-2-41-33-PM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Adam Grant berhasil menjadi professor termuda di Wharton School. Adam yang sudah menulis buku best seller dan TED talk yang ditonton jutaan kali ini punya kebiasaan menarik,  dalam setahun dia menumpuk semua jadwal mengajarnya di satu musim (normalnya di luar negeri ada 4 musim), sehingga dia bisa menfokuskan waktunya di suatu musim untuk murid yang ingin berkonsultasi, dan di waktu yang lain digunakan untuk menulis atau meneliti.
 

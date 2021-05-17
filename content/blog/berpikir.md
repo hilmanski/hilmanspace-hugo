@@ -5,7 +5,7 @@ description = "Saya tipe orang yang “tangannya gatal” selalu mau bikin sesua
 date = "2020-10-15T16:00:00Z"
 featured_image = "https://i.ibb.co/SsqFk9h/Screen-Shot-2020-10-16-at-10-09-56-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Saya tipe orang yang “tangannya gatal” selalu mau bikin sesuatu, paling tidak bergerak. Jadinya saya memanfaatkan energi berlebihan ini untuk berkarya. Saya lebih senang bikin dulu, melakukan kesalahan, lalu memperbaikinya. Saya mulai tidak nyaman ketika sadar, kalau saya jadi mengurangi waktu untuk “berpikir”. Fokus beraktivitas, terlalu semangat melakukan to do list yang dibuat, padahal… mengerjakan hal yang salah, bukanlah hal yang bagus.
 

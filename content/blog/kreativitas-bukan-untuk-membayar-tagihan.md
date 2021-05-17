@@ -5,7 +5,7 @@ description = "Sebelum bertemu pekerjaan favoritTidak ada masalah bekerja sepert
 date = "2018-06-14T04:44:03Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Sebelum bertemu pekerjaan favorit

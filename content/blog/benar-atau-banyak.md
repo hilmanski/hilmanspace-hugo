@@ -5,7 +5,7 @@ description = "Cari yang benar,Bukan yang jumlahnya banyakKarena yang benar belu
 date = "2018-07-10T19:21:31Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Cari yang benar,

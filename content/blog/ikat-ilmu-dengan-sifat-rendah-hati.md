@@ -5,7 +5,7 @@ description = "Banyak yang baru belajar, menjadikan ilmu sebagai senjata untuk m
 date = "2019-07-09T08:28:20Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Banyak yang baru belajar, menjadikan ilmu sebagai senjata untuk menyerang orang lain. 

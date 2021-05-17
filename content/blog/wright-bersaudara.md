@@ -5,7 +5,7 @@ description = "Mungkin kamu mengenal wright bersaudara sebagai pionir pesawat te
 date = "2018-11-10T07:50:14Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Mungkin kamu mengenal wright bersaudara sebagai pionir pesawat terbang pertama. Tidak banyak yang tahu, ada nama Samuel Langley, yang hampir di waktu bersamaan juga sedang membuat pesawat terbang.

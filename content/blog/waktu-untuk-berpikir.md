@@ -5,7 +5,7 @@ description = "Kapan terakhir kali kamu mikir? “hmm maksudnya?” mikir benera
 date = "2017-10-02T19:31:47Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kapan terakhir kali kamu mikir? 

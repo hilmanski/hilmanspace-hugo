@@ -5,7 +5,7 @@ description = "Kamu tahu setelah membaca banyak artikel, menonton berbagai video
 date = "2019-10-04T08:00:00Z"
 featured_image = ""
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Kamu tahu setelah membaca banyak artikel, menonton berbagai video motivasi, tetap saja, satu atau dua hari kemudian kamu kembali ke keadaan lemas dan malas. (tidak semua tentunya orang :) ).
 

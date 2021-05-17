@@ -5,7 +5,7 @@ description = "Kalau kamu menonton televisi sekarang, iklan tidak lagi “saat i
 date = "2019-01-01T16:35:13Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Kalau kamu menonton televisi sekarang, iklan tidak lagi “saat iklan”, tapi acara yang kamu nonton akan terpotong bahkan ada yang mempause filmnya untuk menampilkan iklan. Yap televisi sedang babak belur oleh internet. Marketer lebih mudah mencari perhatian di internet, televisi perlu mencari cara lain.

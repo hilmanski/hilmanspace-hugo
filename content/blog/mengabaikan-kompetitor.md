@@ -5,7 +5,7 @@ description = "Startup digital sedang di masa kejayaanRatusan atau mungkin ribua
 date = "2019-04-22T10:43:24Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Startup digital sedang di masa kejayaan

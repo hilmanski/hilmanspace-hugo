@@ -5,7 +5,7 @@ description = "Bisa saja kamu kuliah, tapi ngga belajar apa-apaBisa saja kamu su
 date = "2018-09-26T10:56:19Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Bisa saja kamu kuliah, tapi ngga belajar apa-apa

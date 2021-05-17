@@ -5,7 +5,7 @@ description = "Makin kita belajar, Makin kita sadarBanyak hal yang kita ngga tah
 date = "2018-02-14T21:09:30Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Makin kita belajar, Makin kita sadar

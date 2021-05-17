@@ -5,7 +5,7 @@ description = "Jujur saya tidak begitu tertarik membahas startup,Sayangnya start
 date = "2018-11-09T18:00:29Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
 
 Jujur saya tidak begitu tertarik membahas startup,

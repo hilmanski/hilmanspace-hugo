@@ -5,7 +5,7 @@ description = "Saat kamu sadar 'karya tidak perlu sempurna'Kamu akan siap untuk 
 date = "2019-01-02T17:27:37Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Saat kamu sadar "karya tidak perlu sempurna"

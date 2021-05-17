@@ -5,7 +5,7 @@ description = "Beberapa tahun terakhir saya merasa mual dengan kondisi media khu
 date = "2019-01-13T16:42:36Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Beberapa tahun terakhir saya merasa mual dengan kondisi media khususnya media berita. Berbagai judul dan gambar di pasang di sosial media untuk menarik penonton, kenapa mereka perlu penonton? agar iklan yang dipasang banyak dilihat, tidak peduli orangnya suka membaca berita tadi atau tidak. Yang penting uang mereka bertambah.

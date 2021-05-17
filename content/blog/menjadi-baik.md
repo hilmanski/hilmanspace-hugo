@@ -5,7 +5,7 @@ description = "<p>raw:</p><p>kaya, bisa dari hal bagus atau jelek seperti rokok<
 date = "2020-12-13T00:37:00Z"
 featured_image = ""
 tags = ""
-draft = false
+draft = true
 +++ 
 raw:
 

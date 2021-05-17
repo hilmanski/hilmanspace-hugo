@@ -5,7 +5,7 @@ description = "<p>Saya jauh lebih senang diremehkan, dibanding dianggap lebih da
 date = "2021-04-27T00:10:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/MX6pP4QadhUqwuOLhAZdD0sCo1FnxPFbxpkA73oy.png"
 tags = ""
-draft = true
+draft = false
 +++ 
 Saya jauh lebih senang diremehkan, dibanding dianggap lebih dari apa yang saya bisa lakukan oleh orang lain.
 

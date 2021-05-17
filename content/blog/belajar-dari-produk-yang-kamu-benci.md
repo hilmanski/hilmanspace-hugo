@@ -5,7 +5,7 @@ description = "Apakah kamu bisa belajar dari produk yang kamu benci? jawabannya 
 date = "2019-08-09T06:31:47Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Apakah kamu bisa belajar dari produk yang kamu benci? jawabannya BISA. Lakukan apa yang mereka lakukan secara terbalik.

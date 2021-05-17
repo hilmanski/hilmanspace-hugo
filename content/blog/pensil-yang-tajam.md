@@ -5,7 +5,7 @@ description = "Ada dua cara untuk membuat pensil tetap tajamYang pertama, jangan
 date = "2018-12-03T16:10:54Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Ada dua cara untuk membuat pensil tetap tajam

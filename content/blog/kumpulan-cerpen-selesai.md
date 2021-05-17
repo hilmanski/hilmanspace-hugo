@@ -5,7 +5,7 @@ description = "Setelah beberapa lama akhirnya kumpulan cerpen yang saya tulis se
 date = "2018-05-22T17:18:08Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Setelah beberapa lama akhirnya kumpulan cerpen yang saya tulis selesai

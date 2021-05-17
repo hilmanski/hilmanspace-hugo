@@ -5,7 +5,7 @@ description = "Driver angkot akan menungguSampai angkot ada penumpangKadang haru
 date = "2018-04-29T08:36:51Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Driver angkot akan menunggu

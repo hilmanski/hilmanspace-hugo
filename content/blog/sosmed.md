@@ -5,7 +5,7 @@ description = "Melihat sisi lain dari sosial media yang terlihat sangat menyenan
 date = "2018-09-07T10:25:58Z"
 featured_image = "https://i.ibb.co/9YTP6wX/Screen-Shot-2020-04-17-at-1-15-05-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Beberapa hari yang lalu saya mendapat testimoni di instagram dari teman-teman yang belajar di sekolahkoding (tempat saya mengajar) bentuk terima kasih karena berhasil mendapatkan pekerjaan. Selain karena senang, testimoni ini juga saya share agar yang lain bisa melihat kalau orang yang serius bisa mengejar pekerjaan impiannya.

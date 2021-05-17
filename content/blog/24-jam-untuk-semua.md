@@ -5,7 +5,7 @@ description = "Tidak, tidak semua dapat 24 jam, secara umum waktu tidur saja ber
 date = "2018-11-17T18:20:39Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Tidak, tidak semua dapat 24 jam, secara umum waktu tidur saja bervariasi dari 4-8 jam setiap orang.

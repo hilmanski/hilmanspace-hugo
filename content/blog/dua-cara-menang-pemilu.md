@@ -5,7 +5,7 @@ description = "Cara satu:Bayangkan saat memimpin yang kamu dapatkanBentuk tim pe
 date = "2018-02-11T10:32:08Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Cara satu:

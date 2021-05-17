@@ -5,7 +5,7 @@ description = "Orang yang ingin tampil lebih, akan menghias dirinya seindah mung
 date = "2018-11-25T10:35:06Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Orang yang ingin tampil lebih, akan menghias dirinya seindah mungkin, mengubah kata-katanya menjadi lebih merdu, foto di sosial medianya hanya yang terbaik.

@@ -5,7 +5,7 @@ description = "Untungnya saya bukan mencari viral, tapi hanya mau berkarya, kala
 date = "2021-04-29T13:00:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/AxAiH7Mc4PZwP4RA0H1Zghx6LUa7sxFxAOxl74kd.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 Beberapa waktu lalu, salah satu postingan saya di instagram, yang mengaitkan [dragon ball dengan pengurusan dokumen di indonesia](https://www.instagram.com/p/CNrqPUHpCpo/) dibagikan oleh banyak orang di twitter. Ditambah lagi ditampilan di salah satu [artikel vice](https://www.vice.com/id/article/dyvz7y/penyebab-orang-masih-fotokopi-e-ktp-dan-dokumen-lain-saat-berurusan-dengan-birokrasi) makin ramailah tweet tersebut.
 

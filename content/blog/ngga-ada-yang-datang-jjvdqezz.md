@@ -5,7 +5,7 @@ description = "Berhenti terus mengeluhIni bukan cerita dongeng seperti Cinderell
 date = "2018-07-21T20:18:21Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Berhenti terus mengeluh

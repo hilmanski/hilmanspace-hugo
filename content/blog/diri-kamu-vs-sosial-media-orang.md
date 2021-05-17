@@ -5,7 +5,7 @@ description = "Kamu takut tentang karir dan nasibmu. Kamu khawatir dengan banyak
 date = "2019-01-05T08:33:26Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Kamu takut tentang karir dan nasibmu. Kamu khawatir dengan banyak hal. Saat membuka instagram, ada wanita muda yang sukses sedang berjalan di luar negeri dengan tas mahalnya. Lalu kamu ke twitter, melihat pria muda sedang membagikan kabar bisnisnya yang luar biasa.
 

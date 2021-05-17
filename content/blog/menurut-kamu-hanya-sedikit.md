@@ -5,7 +5,7 @@ description = "Saat pesawat terbang ingin mendarat, lepas landas atau selama ter
 date = "2019-09-22T19:16:56Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Saat pesawat terbang ingin mendarat, lepas landas atau selama terbang akan ada orang (tim) di menara kontrol yang bertugas untuk melihat apakah pilotnya berada di jalur yang benar, salah arah beberapa derajat saja, akan mempertemukan pesawat yang super cepat ini dengan pesawat lain, atau yang kita sebut TABRAKAN.

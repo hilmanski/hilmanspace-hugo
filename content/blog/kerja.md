@@ -5,7 +5,7 @@ description = "Pernah dengar saran kerja sesuai passion? Bagaimana sih sebenarny
 date = "2018-11-05T09:29:19Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Pernah dengar saran "kerja sesuai passion"? bagaimana kalau itu tidak 100%  benar? kita bedakan dulu hobi, karir, kerja dan panggilan. Catatan ini diambil dari [tulisan medium](http://bit.ly/tak-kerja)

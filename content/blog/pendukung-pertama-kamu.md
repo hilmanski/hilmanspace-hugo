@@ -5,7 +5,7 @@ description = "Ada seorang artis yang memasang wajahnya sendiri di dinding rumah
 date = "2019-07-31T08:55:43Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Ada seorang artis yang memasang wajahnya sendiri di dinding rumahnya, dalam hati saya bilang "narsis sekali". Ternyata saat ditanya alasan, dia menjelaskan kalau dia adalah supporter pertama dirinya. Kalau dia tidak mendukung dirinya sendiri , bagaimana mungkin orang lain akan melakukan itu.

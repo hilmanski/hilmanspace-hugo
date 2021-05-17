@@ -5,7 +5,7 @@ description = "Saya duduk melihat semua buku yang sudah saya beli, bingung mana 
 date = "2018-09-16T21:00:04Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Saya duduk melihat semua buku yang sudah saya beli, bingung mana yang harus saya baca

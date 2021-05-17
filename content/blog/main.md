@@ -5,7 +5,7 @@ description = "Setiap hari senin, biasanya orang mengeluh, waktunya kerja lagi d
 date = "2020-09-23T04:00:00Z"
 featured_image = "https://i.ibb.co/vsR7Gf9/Screen-Shot-2020-09-22-at-4-02-19-PM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Hari senin, kita akan ketemu orang yang bilang "Yah.. senin lagi.. kerja lagi deh..". Tapi sebagian orang, bangun dengan perasaan semangat, ingin mengerjakan apa yang ia tinggalkan. Bagaimana dengan kamu?
 

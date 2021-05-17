@@ -5,7 +5,7 @@ description = "Dibandingkan dulu, rasa sepi justru lebih sering hadir. Teknologi
 date = "2020-01-14T03:54:00Z"
 featured_image = "https://i.ibb.co/12sNnM8/Screen-Shot-2020-01-14-at-9-23-23-AM.png"
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Saat bangun tadi, apakah kamu secara automatis mencari smartphone? . Sebelum tidur pun mungkin ini hal terakhir yang dipegang, sebelum meletakkannya di tempat yang dekat dari jangkauan, agar setiap ada bunyi notifikasi, bisa segera membaca pesannya. Meskipun hanya pesan grup, meskipun hanya informasi umum yang kamu tidak perlu tahu. 
 

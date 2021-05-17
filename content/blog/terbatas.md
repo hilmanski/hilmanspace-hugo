@@ -5,7 +5,7 @@ description = "Usaha atau karya kamu ngga berkembang? apa yang kamu lakukan mula
 date = "2020-08-18T13:00:00Z"
 featured_image = "https://i.ibb.co/dGjTzDM/Screen-Shot-2020-08-17-at-2-17-20-PM.png"
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
 
 Saya kadang mengeluh, pengen bikin bisnis A, tapi ngga ada modal. Ternyata kata tante saya yang suka bisnis, kalau masalah bisnis kamu "tidak ada uang", berarti kamu ngga kreatif.

@@ -5,7 +5,7 @@ description = "Kita ngga mau dikenal dengan kelakuan terburuk kitaAtau dihubungk
 date = "2018-03-03T16:13:08Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Kita ngga mau dikenal dengan kelakuan terburuk kita

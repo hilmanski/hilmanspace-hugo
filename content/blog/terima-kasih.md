@@ -5,7 +5,7 @@ description = "<p>Ini bukan artikel. hanya ucapan terima kasih.  </p><p>Untuk  y
 date = "2020-11-13T08:02:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/avQM7i3IzHO7ckn0iA0bich9t5DYlCzfk1l8rxIA.png"
 tags = ""
-draft = true
+draft = false
 +++ 
 Ini bukan artikel. hanya ucapan terima kasih.
 

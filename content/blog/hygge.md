@@ -5,7 +5,7 @@ description = "Mengenal apa itu hygge, konsep menikmati hidup yang diadopsi dari
 date = "2021-05-04T06:42:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/uRd31dqOksBKWD5y7xZcRWeYxTqgAUVcBADyD08m.png"
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Saat sedang ada masalah beberapa waktu lalu, saya tiba-tiba ingat dengan konsep hygge, yang saya baca dari beberapa buku tahun lalu... Mungkin catatan ini bisa membantu kamu saat sedang pusing pusingnya.
 

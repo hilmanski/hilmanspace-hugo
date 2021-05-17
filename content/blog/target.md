@@ -5,7 +5,7 @@ description = "Kita tidak jauh berbeda dengan zombie, hanya berjalan ramai-ramai
 date = "2020-04-08T16:00:00Z"
 featured_image = "https://i.ibb.co/KKpHhZr/Screen-Shot-2020-04-09-at-2-05-17-PM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Mengetahui siapa lawan dan strategi mereka menjadi keuntungan besar saat kamu sedang berperang .Kita akan mulai dengan mengenal musuh-musuh diri ini dari mengejar produktivitas.
 

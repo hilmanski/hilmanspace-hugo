@@ -5,7 +5,7 @@ description = "Sebelum istirahat dan lanjut ke hari berikutnya (kalau ada kesemp
 date = "2019-07-30T15:01:04Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Sebelum istirahat dan lanjut ke hari berikutnya (kalau ada kesempatan), 

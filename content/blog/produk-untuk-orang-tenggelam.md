@@ -5,7 +5,7 @@ description = "Mencari ide bisnis atau proyek yang perlu dikerjakan berikutnya t
 date = "2018-12-18T08:19:21Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Mencari ide bisnis atau proyek yang perlu dikerjakan berikutnya tidak mudah, butuh waktu yang lama sampai kita bisa memutuskan apa yang harus dibuat. Sayangnya waktu yang lama ini bukan jaminan kalau produk yang kita buat akan terpakai atau dibeli orang.

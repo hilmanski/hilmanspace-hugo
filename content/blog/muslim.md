@@ -5,7 +5,7 @@ description = "Sosial media dan website berita sangat senang menggoreng berita i
 date = "2017-11-08T12:16:54Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Semua lomba-lomba pasang headline “Islam vs NKRI” ini salah satu tema paling ngga bermanfaat yang muncul tahun ini. Cerita patah hati nasional dan internasional cuma jadi remahan cheetos diantara berita ini. Gue ngga ngerti, orangnya mau terkenal atau dapet duit dari iklan websitenya yang bikin berita kaya gini, tanpa mikirin apa dampaknya ke orang-orang. Gue coba ngelihat dari 2 perspektif. (1) Teman muslim (2) teman yg bukan muslim. 
 

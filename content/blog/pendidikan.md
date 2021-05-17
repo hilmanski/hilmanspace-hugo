@@ -5,7 +5,7 @@ description = "Apa yang bisa kamu lakukan sebagai seseorang yang punya skill unt
 date = "2017-08-09T12:20:29Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 “Semakin lama diam, semakin cepat tenggelam seseorang/sesehewan di laut”. Bukan ngga mungkin, kita & sekitar juga akan tenggelam kalau kita diam, ngga ngubah apa-apa. Katanya dulu power-ranger ada banyak, ada yang warna ungu campur ijo, cuma mati karena pas ada musuh orangnya ngga berubah :P   
 

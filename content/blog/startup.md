@@ -5,7 +5,7 @@ description = "Sudah sering kita dengar istilah startup, apalagi dengan hebohnya
 date = "2018-11-09T09:42:23Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Kamu bingung ide apa yang bagus untuk startup? kamu ngga tahu ide kamu bagus atau jelek? Orang-orang selalu mengaitkan startup dengan ide, sementara yang diperlukan sebenarnya dalam startup adalah “Menyelesaikan Masalah”.

@@ -5,7 +5,7 @@ description = "tetap berkarya"
 date = "2019-06-08T17:24:46Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 tetap berkarya

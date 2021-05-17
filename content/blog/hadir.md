@@ -5,7 +5,7 @@ description = "Kalau ada satu skill yang benar-benar mau saya kuasai sekarang. S
 date = "2018-07-21T19:15:08Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Kalau ada satu skill yang mau saya kuasai sekarang  

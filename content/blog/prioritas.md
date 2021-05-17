@@ -5,7 +5,7 @@ description = "Setelah kamu mendefinisikan apa yang kamu inginkan, jebakan kedua
 date = "2020-04-12T16:00:00Z"
 featured_image = "https://i.ibb.co/kXNYm83/Screen-Shot-2020-04-13-at-2-55-06-PM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 > “Kalau kamu mengejar dua kelinci, kamu tidak akan mendapatkan keduanya”  - Pepatah Rusia.
 

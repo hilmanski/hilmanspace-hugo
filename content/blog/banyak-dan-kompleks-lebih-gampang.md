@@ -5,7 +5,7 @@ description = "Menghasilkan karya yang banyak dan kompleks jauh lebih gampangDib
 date = "2018-02-23T16:55:45Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Menghasilkan karya yang banyak dan kompleks jauh lebih gampang

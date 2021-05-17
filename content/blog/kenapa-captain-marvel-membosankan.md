@@ -5,7 +5,7 @@ description = "Tidak semua orang, tapi banyak yang bilangBayangkan superman tanp
 date = "2019-07-18T16:22:38Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Tidak semua orang, tapi banyak yang bilang

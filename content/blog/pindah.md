@@ -5,7 +5,7 @@ description = "Bergerak itu berkah. Orang yang sudah ke berbagai tempat, tentuny
 date = "2016-03-05T12:09:09Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Hidup selalu dipenuhi dengan perpindahan. Perpindahan waktu, perpindahan tempat dan berbagai perpindahan yang lain. Baru-baru ini (1 hari yang lalu, ketika post ini ditulis), saya berpindah tempat tinggal dari Berlin, Jerman ke Makassar, Indonesia. Meskipun bukan yang pertama kali, karena SMP saya pindah ke Sukabumi, sebelum SMA di Ibukota, tetap saja perpindahan ini tidak terasa ringan. 

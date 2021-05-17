@@ -5,7 +5,7 @@ description = "Ada dua cara untuk hidup cukup:1. Terus cari dan penuhi apa yang 
 date = "2018-11-05T17:00:30Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Ada dua cara untuk hidup cukup:

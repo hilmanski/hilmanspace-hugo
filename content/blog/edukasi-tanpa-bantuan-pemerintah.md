@@ -5,7 +5,7 @@ description = "Kalau kamu percaya dengan satu hal yang penting untuk diajarkan k
 date = "2019-04-28T07:29:23Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kalau kamu percaya dengan satu hal yang penting untuk diajarkan ke orang-orang, mulailah mengajar, bukan sibuk membuat proposal atau slide presentasi untuk pemerintah.

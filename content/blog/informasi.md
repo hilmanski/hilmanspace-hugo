@@ -5,7 +5,7 @@ description = "mengenal apa itu information fatigue, yang bikin kamu terus lelah
 date = "2020-01-15T16:00:00Z"
 featured_image = "https://i.ibb.co/PtZ0YMk/Screen-Shot-2020-01-16-at-1-10-41-PM.png"
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Prediksi orang-orang dulu kalau dengan teknologi, manusia akan jadi lebih santai dan bisa menikmati hidup, tidak 100% akurat. Yang terjadi, sumber informasi yang sangat mudah didapat bikin orang-orang kecanduan mengkonsumsinya.
 

@@ -5,7 +5,7 @@ description = "Selama ini kamu menghafal atau belajar? Selama kamu belajar, kamu
 date = "2020-11-24T01:41:00Z"
 featured_image = "https://hilmanski.s3.ap-southeast-1.amazonaws.com/public/wink/images/O3inucE6pFEvgOZxG0uS8WVMYPnuPMz8gHkNSB5I.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Orang yang hanya tahu kopi dari meminum kopi saset, bayangannya akan terbatas dengan rasa kopi saset tersebut. Variasi yang bisa dia rasakan, hanya kopi saset dingin atau kopi saset panas. Berbeda dengan orang yang mencari tahu apa "kopi sebenarnya", ia akan sadar kalau ternyata kopi berasal dari biji yang sangat bervariasi. Setiap asal geografi, jenis, dan cara mengolahnya bisa menawarkan cita rasa kopi yang berbeda, belum lagi ketika dicampur dengan elemen lain seperti susu, gula aren dan masih banyak lagi.
 

@@ -5,7 +5,7 @@ description = "Ada vitamin ada obat. Vitamin dalam menjalankan sesuatu adalah se
 date = "2019-10-14T16:00:00Z"
 featured_image = "https://i.ibb.co/2vcSSkc/Screen-Shot-2019-10-14-at-10-41-47-AM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Ada vitamin ada obat. Vitamin dalam menjalankan sesuatu adalah "tambahan semangat" demgan mengingat kenapa kita memulainya atau mendapat motivasi, sementara Obat dibutuhkan saat kita depresi menjalankan bisnis yang tidak kunjung berhasil. Lalu apa obatnya?
 

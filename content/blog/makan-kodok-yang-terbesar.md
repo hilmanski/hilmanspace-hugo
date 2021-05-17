@@ -5,7 +5,7 @@ description = "Kalau kamu harus makan dua kodok,makan yang paling gede duluan-Ma
 date = "2018-02-15T11:44:34Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kalau kamu harus makan dua kodok,

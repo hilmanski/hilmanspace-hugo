@@ -5,7 +5,7 @@ description = "Selama tahun 1960-1970. Universitas Caliornia membuat kampusnya t
 date = "2018-03-12T16:18:40Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Selama tahun 1960-1970. Universitas Caliornia membuat kampusnya tanpa jalan yang jelas.

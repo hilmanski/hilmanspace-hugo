@@ -5,7 +5,7 @@ description = "Kalau kamu memperbaiki mobil, kamu akan menanyakan apa masalahnya
 date = "2018-10-21T08:45:20Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Kalau kamu memperbaiki mobil, kamu akan menanyakan apa masalahnya, apa yang terjadi, di bagian mana kerusakannya, bukan membongkar keseluruhan mesin.

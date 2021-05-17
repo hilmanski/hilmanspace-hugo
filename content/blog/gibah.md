@@ -5,7 +5,7 @@ description = "Membicarakan orang lain tapi salah, namanya fitnah. Membicara ora
 date = "2020-08-20T16:00:00Z"
 featured_image = "https://i.ibb.co/bJPLkR2/Screen-Shot-2020-08-17-at-8-39-49-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Saat berkumpul dengan teman,  

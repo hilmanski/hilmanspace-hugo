@@ -5,7 +5,7 @@ description = "Kalau kamu manusia seperti saya, kamu akan melakukan banyak kesal
 date = "2019-01-23T06:31:24Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Kalau kamu manusia seperti saya, kamu akan melakukan banyak kesalahan. Tanpa sadar kamu sering menghina diri kamu sendiri. Menyebut kamu tidak pantas, kamu gagal, dan ujaran lainnya.
 

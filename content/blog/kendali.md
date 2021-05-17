@@ -5,7 +5,7 @@ description = "Kita punya energi yang terbatas, bahan bakar tenaga ini bisa difo
 date = "2019-12-06T16:00:00Z"
 featured_image = "https://i.ibb.co/QYbgtVF/Screen-Shot-2019-12-07-at-8-38-10-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Kita punya energi yang terbatas, bahan bakar tenaga ini bisa difokuskan untuk 1. berbuat sesuatu atau  2. khawatir terhadap hal tersebut. Kedua-duanya butuh energi, tapi untuk nomor dua, sering terpakai tanpa sadar.

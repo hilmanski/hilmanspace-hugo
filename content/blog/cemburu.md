@@ -5,7 +5,7 @@ description = "Kita mau kabur dari proses yang sudah lama diperjuangkan. Merasa 
 date = "2020-05-29T16:00:00Z"
 featured_image = "https://i.ibb.co/FxBY6WB/Screen-Shot-2020-05-23-at-1-27-59-PM.png"
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Kehidupan orang lain terlihat lebih menarik
 

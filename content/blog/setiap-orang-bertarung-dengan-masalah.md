@@ -5,7 +5,7 @@ description = "Tidak jelas sumber asli kutipan ini 'Be kind, for everyone you me
 date = "2018-12-22T15:11:40Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 Tidak jelas sumber asli kutipan ini "Be kind, for everyone you meet is fighting a hard battle." ada yang bilang Philo, Plato atau Ian. Yang jelas kita diajarkan untuk selalu bersikap baik ke orang lain, kita tidak tahu orang yang ditemui sedang bertarung dengan masalah yang besar.
 

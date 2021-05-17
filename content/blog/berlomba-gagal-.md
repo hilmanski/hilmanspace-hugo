@@ -5,7 +5,7 @@ description = "Novel pertama yang ditulis Stephen King, 'Carrie' ditolak puluhan
 date = "2018-12-06T11:48:03Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Novel pertama yang ditulis Stephen King, "Carrie" ditolak puluhan kali sebelum berhasil diterbitkan. Cerita yang sama datang dari JK Rowling, penulis Harry Potter.

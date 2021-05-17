@@ -5,7 +5,7 @@ description = "Apa yang paling berbahaya di jamanNow?Salah satunya adalah instan
 date = "2018-01-09T18:28:26Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Apa yang paling berbahaya di #jamanNow?

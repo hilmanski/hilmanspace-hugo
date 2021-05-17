@@ -5,7 +5,7 @@ description = "tiga waktu yang berbeda: pagi siang dan malam, dengan satu tujuan
 date = "2019-12-20T12:00:00Z"
 featured_image = "https://i.ibb.co/wsjnfMR/Screen-Shot-2019-12-20-at-7-06-04-AM.png"
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Malam tidak punya warna  

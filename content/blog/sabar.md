@@ -5,7 +5,7 @@ description = "Kamu akan melakukan banyak kesalahan, belajar untuk memaafkan dir
 date = "2020-10-31T03:23:00Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Saat belajar sesuatu tidak langsung paham  
 Jangan stress itu normal 

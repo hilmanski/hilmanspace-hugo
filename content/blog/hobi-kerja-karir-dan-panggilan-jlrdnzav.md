@@ -5,7 +5,7 @@ description = "Halo! semoga sehat teman-teman yang sedang baca dan jauh dari rib
 date = "2018-09-07T10:24:47Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Halo! semoga sehat teman-teman yang sedang baca dan jauh dari ribut ribut masalah kecebong atau kampret.

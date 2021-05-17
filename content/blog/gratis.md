@@ -5,7 +5,7 @@ description = "Internet membuat banyak hal menjadi mudahDi sisi lainInternet mem
 date = "2019-02-04T15:18:24Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Internet membuat banyak hal menjadi mudah

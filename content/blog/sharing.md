@@ -5,7 +5,7 @@ description = "Kenapa saya berbeda di dunia maya dan di dunia nyata"
 date = "2019-01-21T16:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Kalau kita bertemu langsung untuk pertama kali, saya akan lebih banyak diam, bertanya dan mendengarkan cerita kamu. Berbeda dengan di dunia maya, dimana jumlah saya sharing cukup banyak via tulisan,  apakah ini yang disebut “jago kandang ? :P” atau berkpribadian ganda :P?

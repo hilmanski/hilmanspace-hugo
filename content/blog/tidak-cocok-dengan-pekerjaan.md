@@ -5,7 +5,7 @@ description = "Saya sering mendengar keluhan di atas.Atau 'saya tidak tahu passi
 date = "2018-12-04T19:27:18Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Saya sering mendengar keluhan di atas.

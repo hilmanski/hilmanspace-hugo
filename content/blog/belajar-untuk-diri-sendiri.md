@@ -5,7 +5,7 @@ description = "Belajar mulai sekarang, tidak harus di sekolahkoding, sudah ada s
 date = "2019-10-01T08:00:00Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Belajar mulai sekarang, sudah ada sangat banyak media untuk belajar. Ini untuk kamu sendiri, dengan belajar dan menambah skill, kamu bisa punya pekerjaan yang lebih baik, dari sana kamu bisa berpenghasilan yang lebih baik.

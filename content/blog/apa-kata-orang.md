@@ -5,7 +5,7 @@ description = "salah satu ekspresi yang paling sering disebutkan di indonesia 'a
 date = "2019-10-08T03:00:00Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Ini adalah salah satu ekspresi yang paling sering disebutkan di Indonesia 'apa kata orang nanti?' saat kita mau mengambil keputusan tertentu. Dalam konteks berkarya alias membuat sesuatu, ada yang lebih penting.. "apa kata kamu?"

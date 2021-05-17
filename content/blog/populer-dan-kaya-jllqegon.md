@@ -5,7 +5,7 @@ description = "'Saya pikir orang-orang perlu menjadi kaya dan populer dan melaku
 date = "2018-09-03T11:34:41Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 "Saya pikir orang-orang perlu menjadi kaya dan populer dan melakukan apa saja yang jadi mimpi mereka, supaya mereka bisa melihat kalau itu bukan jawabannya"

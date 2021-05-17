@@ -5,7 +5,7 @@ description = "Kita selalu pindah dari takut satu hal ke hal yang lain. Waktu ke
 date = "2017-06-26T19:25:38Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 Kita selalu pindah dari takut satu hal ke hal yang lain. Waktu kecil kita takut hantu, takut suntik atau takut ngga naik kelas. Takutnya kita mungkin beda-beda saat kecil, satu hal yang pasti, kalau masih sempat baca post ini, berarti kita masih hidup, masih bisa tidur saat malam (atau siang) dan masih bisa makan saat bangun.
 

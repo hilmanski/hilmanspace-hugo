@@ -5,7 +5,7 @@ description = "'Saya baru aja share artikel menarik! (dapet berapa likes ya?)''S
 date = "2018-02-11T10:11:19Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 "Saya baru aja share artikel menarik! (dapet berapa likes ya?)"

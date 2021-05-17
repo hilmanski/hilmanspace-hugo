@@ -5,7 +5,7 @@ description = "Ngomentarin karya itu gampangBikin karya yang layak dikomentarin 
 date = "2018-02-09T18:24:28Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Ngomentarin karya itu gampang

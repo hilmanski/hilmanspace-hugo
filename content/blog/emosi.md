@@ -5,7 +5,7 @@ description = "Jangan mengambil keputusan, Jangan posting sesuatu, Jangan memili
 date = "2020-06-12T16:00:00Z"
 featured_image = "https://i.ibb.co/1JN94Bd/Screen-Shot-2020-06-06-at-7-02-56-AM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Sudah sering saya memposting sesuatu, tidak berselang lama kemudian, saya menghapusnya. Alasannya? saya memposting saat sedang emosi.

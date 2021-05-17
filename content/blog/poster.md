@@ -1,11 +1,11 @@
 +++
 title = "Poster"
 slug = "poster"
-description = "poster tulisan kumpulan prinsip hidup"
+description = "poster kumpulan prinsip kehidupan"
 date = "2019-01-21T11:59:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 _Download poster kumpulan prinsip:_  
 [Versi normal](https://ibb.co/cJLdBB5)  

@@ -5,7 +5,7 @@ description = "Akhir seperti apa yang teman-teman mau? mau jadi biasa aja atau m
 date = "2018-06-18T10:44:39Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Akhir seperti apa yang teman-teman mau? mau jadi biasa aja atau mau mati meninggalkan sesuatu

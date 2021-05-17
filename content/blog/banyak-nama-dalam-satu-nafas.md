@@ -5,7 +5,7 @@ description = "“No one can speak the names of billions in one breath, unless i
 date = "2018-04-06T13:20:28Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 “No one can speak the names of billions in one breath, unless it’s in prayer, and oftentimes when we generalize, it isn’t because we’re praying”

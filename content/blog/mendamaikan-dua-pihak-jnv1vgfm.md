@@ -5,7 +5,7 @@ description = "Daniel Ek sangat cinta dengan musik, di daerahnya, ada tempat yan
 date = "2018-10-30T09:25:10Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
 Daniel Ek sangat cinta dengan musik, di daerahnya, ada tempat yang menggratiskan anak-anak mulai belajar musik. Dia punya hobi lain, sejak umur belasan, dia membuat website dan mendapatkan uang (banyak uang) untuk itu.
 

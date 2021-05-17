@@ -5,7 +5,7 @@ description = "Saya suka desain, ada tool gratis banyak bertebaran,tapi saya ngg
 date = "2018-09-08T08:17:20Z"
 featured_image = ""
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Saya suka desain, ada tool gratis banyak bertebaran,
 tapi saya ngga nyaman dengan itu,

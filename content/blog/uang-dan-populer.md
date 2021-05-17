@@ -5,7 +5,7 @@ description = "Pengingat untuk diri saya sendiri tentang uang dan popularitas un
 date = "2019-01-01T08:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Tulisan ini adalah pengingat untuk saya sendiri tentang uang dan populer. Kalau merasa ada yang berhubungan dengan kamu, semoga catatan ini membantu.

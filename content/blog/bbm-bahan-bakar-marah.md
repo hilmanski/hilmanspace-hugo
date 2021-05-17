@@ -5,7 +5,7 @@ description = "Di umurnya yang sudah cukup tua dibanding rekan setimnya saat itu
 date = "2019-09-09T07:34:21Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Di umurnya yang sudah cukup tua dibanding rekan setimnya saat itu, Michael Jordan yang duduk di bangku cadangan terus berbisik ke dirinya sendiri "Mereka bilang kamu sudah tua, Mereka bilang kamu sudah tua, Mereka bilang kamu sudah tua" Kalimat tersebut terus diulang menjadi -soundtrack lagu- di kepalanya, sampai pelatih menyuruhnya masuk bermain.

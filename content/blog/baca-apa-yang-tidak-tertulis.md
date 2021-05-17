@@ -5,7 +5,7 @@ description = "Kalau kamu memplejari apa yang dilakukan Bill Gates saat membuat 
 date = "2019-09-30T08:00:00Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Kalau kamu memplejari apa yang dilakukan Bill Gates saat membuat microsoft. Dan mencoba melakukan hal yang sama sekarang, 100% sama. Hasilnya akan berbeda, kenapa? karena microsoft sudah ada, dan sudah sangat lama berjalan.

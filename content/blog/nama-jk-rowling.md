@@ -5,7 +5,7 @@ description = "Saat mempublish buku pertamanya, penulis dengan karya fenomenal H
 date = "2018-03-27T14:25:07Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Saat mempublish buku pertamanya, penulis dengan karya fenomenal Harry Potter ini diminta oleh publishernya untuk menggunakan nama inisial, agar nama aslinya "Joanne" bisa disembunyikan.

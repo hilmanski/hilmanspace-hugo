@@ -5,7 +5,7 @@ description = "Di televisi banyak menyajikan lawakanDi youtube banyak gamer memb
 date = "2018-04-22T12:08:47Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Di televisi banyak menyajikan lawakan

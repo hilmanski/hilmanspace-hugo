@@ -5,7 +5,7 @@ description = "Menanam bibit hari iniTidak tahu suatu hari nanti bibitnya tumbuh
 date = "2018-11-09T20:31:38Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Menanam bibit hari ini

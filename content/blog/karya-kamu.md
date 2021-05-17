@@ -5,7 +5,7 @@ description = "apa karyamu yang kamu rela menghabiskan waktu lama dan tidak pedu
 date = "2019-10-07T11:00:00Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
 
 Saat kamu mengerjakan sesuatu, ada yang terasa sangat berat dan ada juga yang terasa sangat ringan. Opsi kedua ini adalah sinyal bahwa kamu punya kesempatan yang besar di bidang ini.

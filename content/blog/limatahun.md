@@ -5,7 +5,7 @@ description = "Sering dengar pertanyaan, hey lima tahun lagi kamu mau jadi apa? 
 date = "2016-08-17T11:53:24Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 “Apa tujuan 5 atau 10 tahun ke depan?“ Ini pertanyaan yang biasa dilempar untuk ngelihat seseorang ‘visioner’ apa ngga (mungkin..). Tapi semoga ini bukan jadi tolak ukur yang valid ya, saya sendiri bingung soalnya ditanya akan jadi apa di waktu yang akan datang.

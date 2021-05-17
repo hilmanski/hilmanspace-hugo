@@ -5,7 +5,7 @@ description = "Sampai kamu membagi masalahnya ke bagian-bagian kecil, hal sulit 
 date = "2019-01-25T16:46:07Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Sampai kamu membagi masalahnya ke bagian-bagian kecil, hal sulit yang mau kamu kerjakan akan terus terlihat sulit.

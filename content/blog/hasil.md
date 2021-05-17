@@ -5,7 +5,7 @@ description = "Selama mengajar, saya dapat banyak keluhan kalau teman-teman suda
 date = "2020-04-18T16:00:00Z"
 featured_image = "https://i.ibb.co/gvHs2rp/Screen-Shot-2020-04-19-at-1-19-17-PM.png"
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Pesan makanan dari smartphone  

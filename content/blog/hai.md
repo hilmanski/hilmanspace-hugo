@@ -5,7 +5,7 @@ description = "Masih banyak hal yang perlu diubah, tapi nelan 10 obat sekaligus,
 date = "2017-06-12T19:26:50Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
 
 Masih banyak hal yang perlu diubah, tapi nelan 10 obat sekaligus, bisa sakit juga.

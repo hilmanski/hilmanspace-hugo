@@ -5,7 +5,7 @@ description = "Kita beli barang yang kita ngga butuhDengan uang yang kita ngga p
 date = "2018-03-19T07:39:27Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Kita beli barang yang kita ngga butuh

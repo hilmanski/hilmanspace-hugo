@@ -5,7 +5,7 @@ description = "Kalau kamu terus mengerjakan hal yang sama berulang-ulang, coba p
 date = "2020-04-15T16:00:00Z"
 featured_image = "https://i.ibb.co/CVPv1yM/automation-cover.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Bagian ini berisi salah satu tips produktif favorit saya, yaitu otomatisasi. Teknik ini menjadi faktor terbesar saya bisa bekerja sendiri dan tidak terikat langsung dengan waktu atau bahasa populernya bisa “berpenghasilan pasif”. Hal ini juga yang membuat saya semangat, untuk berbagi konsep produktivitas karena sangat mungkin membantu banyak orang.
 

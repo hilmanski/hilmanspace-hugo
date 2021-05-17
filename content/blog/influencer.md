@@ -5,7 +5,7 @@ description = "Kalau kamu bekerja tidak jauh dari bidang teknologi, mungkin desa
 date = "2019-02-26T16:00:00Z"
 featured_image = ""
 tags = ""
-draft = true
+draft = false
 +++ 
 
 Superman dikenal sebagai penyelamat dunia, tapi tidak sedikit yang melihatnya sebagai ancaman, kekuatannya yang berlebihan tidak bisa dicegah oleh tangan manusia, kalau suatu saat Superman memilih untuk melakukan sebaliknya.

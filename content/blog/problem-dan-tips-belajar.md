@@ -5,7 +5,7 @@ description = "Problem dengan belajar selama ini:-Mulai belajar karena wajib-Pro
 date = "2017-11-29T18:27:29Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Problem dengan belajar selama ini:

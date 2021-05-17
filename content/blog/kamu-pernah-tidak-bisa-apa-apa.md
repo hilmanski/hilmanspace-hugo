@@ -5,7 +5,7 @@ description = "Kamu pernah tidak bisa apa-apaKamu pernah tidak tahu apa-apaKamu 
 date = "2019-04-06T08:40:49Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Kamu pernah tidak bisa apa-apa
 Kamu pernah tidak tahu apa-apa

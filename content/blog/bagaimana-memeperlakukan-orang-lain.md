@@ -5,7 +5,7 @@ description = "Perlakukan orang lainPersis seperti gimana kita mau diperlakukan 
 date = "2018-02-10T13:36:57Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Perlakukan orang lain

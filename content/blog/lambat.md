@@ -5,7 +5,7 @@ description = "Setiap pekerjaan kita ada yang menikmati. Tapi jangan lupa, kamu 
 date = "2020-08-22T16:00:00Z"
 featured_image = "https://i.ibb.co/xFrXcmT/Screen-Shot-2020-08-21-at-9-19-07-AM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Beberapa kali saya merasa pusing dengan pekerjaan.
 

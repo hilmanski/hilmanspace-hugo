@@ -5,7 +5,7 @@ description = "Bisnis yang mengandalkan tatap muka langsung sedang mengalami mas
 date = "2020-03-27T16:00:00Z"
 featured_image = "https://i.ibb.co/bLVSV9x/Screen-Shot-2020-03-28-at-5-48-41-PM.png"
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
 
 Bisnis yang mengandalkan tatap muka langsung sedang mengalami masalah, munculnya anjuran di beberapa negara untuk tetap di rumah, membuat restoran, tempat bermain, gedung pernikahan, dan “bisnis offline” lainnya menjadi sepi. (Terkecuali bahan makanan).

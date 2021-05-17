@@ -5,7 +5,7 @@ description = "Kadang, di satu minggu kamu bekerja sangat kerasTiba-tiba minggu 
 date = "2019-07-30T15:05:34Z"
 featured_image = ""
 tags = "kesehatan-mental"
-draft = true
+draft = false
 +++ 
 Kadang, di satu minggu kamu bekerja sangat keras
 Tiba-tiba minggu depannya kamu sangat malas mengerjakan sesuatu

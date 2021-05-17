@@ -5,7 +5,7 @@ description = "Saya punya dua cerita:Yang pertama, tentang Derek Sivers, musisi 
 date = "2017-11-26T18:27:15Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
 
 Saya punya dua cerita:

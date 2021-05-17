@@ -5,7 +5,7 @@ description = "Sedang berhadapan dengan kasus sulit?Mungkin kita belum mengerti 
 date = "2018-04-18T17:30:06Z"
 featured_image = ""
 tags = "inspirasi"
-draft = true
+draft = false
 +++ 
  
 Sedang berhadapan dengan kasus sulit?

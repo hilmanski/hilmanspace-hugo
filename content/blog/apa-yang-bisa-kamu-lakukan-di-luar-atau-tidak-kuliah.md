@@ -5,7 +5,7 @@ description = "Sudah kuliah, tidak kuliah, belum kuliah atau donatur(bayar SPP t
 date = "2019-08-03T08:00:00Z"
 featured_image = ""
 tags = "manusia"
-draft = true
+draft = false
 +++ 
  
 Sudah kuliah, tidak kuliah, belum kuliah atau donatur(bayar SPP tapi ngga kuliah) ada banyak hal yang bisa kamu lakukan untuk proses belajar kamu

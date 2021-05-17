@@ -5,7 +5,7 @@ description = "Untuk ukuran kota besar yang banyak kendaraan, udara di Jogja  te
 date = "2018-09-29T08:39:07Z"
 featured_image = ""
 tags = "bisnis"
-draft = true
+draft = false
 +++ 
  
 Untuk ukuran kota besar yang banyak kendaraan, udara di Jogja  termasuk masih segar, berjalan kaki di pagi hari untuk mencari sarapan adalah pilihan tepat. Setelah melangkah beberapa jauh, saya kembali ke tempat awal, angkringan. Karena terlalu nyaman, setelah sarapan saya memilih tetap duduk dan mengamati angkringan ini, a lot to learn!

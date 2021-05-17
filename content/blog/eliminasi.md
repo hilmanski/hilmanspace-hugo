@@ -5,7 +5,7 @@ description = "Dengan mengurangi kegiatan yang tidak penting, kamu mengurangi ju
 date = "2020-04-13T16:00:00Z"
 featured_image = "https://i.ibb.co/dWhQDGh/Screen-Shot-2020-04-14-at-3-26-02-PM.png"
 tags = "kerja"
-draft = true
+draft = false
 +++ 
 Marie Kondo, seorang konsultan asal Jepang untuk mengorganisasikan barang-barang, pertama kali akan menyarankan kliennya untuk mengumpulkan semua barang yang dipunya, agar kliennya melihat betapa banyak hal-hal yang dia miliki sekarang, sebelum nanti meminta mereka untuk mengeliminasi, baik itu didonasikan atau dijual agar kepemilikannya bisa berkurang.
 
