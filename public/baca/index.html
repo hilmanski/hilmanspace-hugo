@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <title>  </title>
+        <meta name="description"
+            content="Website Hilman Ramadhan"
+            property="og:description">
+        
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@hilmanski" />
+        <meta name="twitter:creator" content="@hilmanski" />
+        <meta property="og:url" content="https://hilman.space/baca/" />
+        <meta property="og:title" content=" " />
+        <meta property="og:description"
+            content="Website Hilman Ramadhan" />
+        <meta property="og:image" 
+        content="https://ogi.sh/article?title=&subtitle=@hilmanski&unsplashId=3OR-XFzKSBo" />
+
+    
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+    
+    
+    <link href="/css/main.css" rel="stylesheet">
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    
+    
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98864351-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-98864351-2');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header>
+        <nav class="columns is-mobile flex-end">
+            <a href="/" id="navhome">Halo</a>
+        </nav>
+    </header>
+
+
+    
+    
+    
+
+    
+    
+    <section class="article">
+        <h1 id="title" class="py-2"><a href="https://hilman.space/seandainya/"> seandainya </a></h1>
+        <div><p>waktu terbaik untuk mulai adalah kemarin, waktu terbaik kedua, adalah hari ini</p>
+ </div>
+        <p> <a href="https://hilman.space/seandainya/#disqus_thread"> Komentar di sini</a> </p>
+    </section>
+    
+    <br><hr>
+    
+    <section class="article">
+        <h1 id="title" class="py-2"><a href="https://hilman.space/menjadi-baik/"> Menjadi baik </a></h1>
+        <div><p>raw:</p>
+<p>kaya, bisa dari hal bagus atau jelek seperti rokok</p>
+<p>populer, bisa dari membuat karya bisa juga hal kelek seperti viral, atau bermain status merendahkan orang lain</p>
+<p>example: politikus, bisnismen, selebriti</p>
+<p>jadi baik, tidak ada pilihan lain, kamu harus baik jadi sekarang, apapun profesimu.</p>
+<p>and yes, dengan baik, bisa jadi ada efek samping kamu jadi kaya atau jadi populer, tapi kalau tujuan kamu yang penting &lsquo;kaya&rsquo; dan &lsquo;populer&rsquo; bisa jadi hal kele terjadi</p>
+ </div>
+        <p> <a href="https://hilman.space/menjadi-baik/#disqus_thread"> Komentar di sini</a> </p>
+    </section>
+    
+    <br><hr>
+    
+    <section class="article">
+        <h1 id="title" class="py-2"><a href="https://hilman.space/teori-100-true-fans/"> Teori 100 True Fans </a></h1>
+        <div><p><a href="https://kk.org/thetechnium/1000-true-fans/">Original idea 1000 true fans dari Kevin Kelly</a></p>
+ </div>
+        <p> <a href="https://hilman.space/teori-100-true-fans/#disqus_thread"> Komentar di sini</a> </p>
+    </section>
+    
+    <br><hr>
+    
+    
+    <br>
+    <a href="/tulisan">Baca tulisan lainnya di sini</a>
+
+
+
+<footer id="footer">
+    <a href="/">Hi</a> -
+    <a href="/tulisan">Tulisan</a> -
+    <a href="/kerjaan">Eksperimen</a> -
+    <a href="/dukung">Dukung</a> -
+    <a href="#" onclick="toggleDarkMode()" id="themeBtn">🌚</a> &nbsp;
+</footer>
+
+<script>
+
+    
+    if (document.location.pathname === "/") {
+        document.getElementById('navhome').style.display = "none"
+        document.getElementById('footer').style.display = "none"
+    }
+
+    
+    if (localStorage.getItem('preferredTheme') == 'dark')
+        toggleDarkMode()
+
+    function toggleDarkMode() {
+        const themeBtn = document.getElementById('themeBtn')
+        let emoticon = ""
+        let isDark = document.body.classList.toggle("darkmode")
+
+        if (isDark) {
+            emoticon = "🌝"
+            localStorage.setItem('preferredTheme', 'dark');
+        } else {
+            emoticon = "🌚"
+            localStorage.removeItem('preferredTheme');
+        }
+
+        themeBtn.innerHTML = emoticon
+    }
+</script>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://hilman.space/blog/</loc>
+    <lastmod>2020-12-28T08:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/</loc>
+    <lastmod>2020-12-28T08:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/seandainya/</loc>
+    <lastmod>2020-12-28T08:33:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/menjadi-baik/</loc>
+    <lastmod>2020-12-13T00:37:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/teori-100-true-fans/</loc>
+    <lastmod>2020-12-02T02:06:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/baca/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/tulisan/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/tags/</loc>
+  </url>
+  
+</urlset>
