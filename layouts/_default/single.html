@@ -1,0 +1,34 @@
+{{ define "main" }}
+
+<section class="article">
+    <h1 id="title" class="py-2">{{ .Title }}</h1>
+    <div> {{ .Content }} </div>
+
+    <br>
+    ---
+    <br><br>
+    <small>
+        ✍🏽 {{ .Date.Format "Mon Jan 2, 2006" }}  <br>
+        👉🏽 Kategori: {{ .Params.Tags }}  <br>
+        👋🏽 Mau email kalau ada info menarik? <a href="http://eepurl.com/gDX5-D" target="_blank"> klik ini</a>. <br>
+        Tertarik untuk <a href="/dukung"> mendukung?</a></p>
+    </small>
+</section>
+
+<script>
+    document.getElementById("title").scrollIntoView();
+</script>
+
+<div id="disqus_thread"></div>
+<script>
+    (function () { // DON'T EDIT BELOW THIS LINE
+        var d = document, s = d.createElement('script');
+        s.src = 'https://hilmanspace.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by
+        Disqus.</a></noscript>
+
+{{ end }}

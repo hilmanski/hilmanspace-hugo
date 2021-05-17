@@ -1,0 +1,36 @@
+<footer id="footer">
+    <a href="/">Hi</a> -
+    <a href="/tulisan">Tulisan</a> -
+    <a href="/kerjaan">Eksperimen</a> -
+    <a href="/dukung">Dukung</a> -
+    <a href="#" onclick="toggleDarkMode()" id="themeBtn">🌚</a> &nbsp;
+</footer>
+
+<script>
+
+    //remove hi @homepage
+    if (document.location.pathname === "/") {
+        document.getElementById('navhome').style.display = "none"
+        document.getElementById('footer').style.display = "none"
+    }
+
+    //check localstorage
+    if (localStorage.getItem('preferredTheme') == 'dark')
+        toggleDarkMode()
+
+    function toggleDarkMode() {
+        const themeBtn = document.getElementById('themeBtn')
+        let emoticon = ""
+        let isDark = document.body.classList.toggle("darkmode")
+
+        if (isDark) {
+            emoticon = "🌝"
+            localStorage.setItem('preferredTheme', 'dark');
+        } else {
+            emoticon = "🌚"
+            localStorage.removeItem('preferredTheme');
+        }
+
+        themeBtn.innerHTML = emoticon
+    }
+</script>

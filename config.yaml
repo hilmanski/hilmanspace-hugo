@@ -1,0 +1,16 @@
+baseURL : https://hilman.space/
+languageCode : id
+title : Hilman Ramadhan | @hilmanski
+
+params:
+    description: Website Hilman Ramadhan
+
+paginate : 20
+
+staticDir: static
+
+permalinks:
+  blog : /:slug/
+
+outputs:
+    home : ["HTML", "RSS", "JSON"]

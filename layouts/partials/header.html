@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="id">
+
+<head>
+    <title> {{ .Title }} </title>
+        <meta name="description"
+            content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}"
+            property="og:description">
+        
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:site" content="@hilmanski" />
+        <meta name="twitter:creator" content="@hilmanski" />
+        <meta property="og:url" content="{{ .Permalink }}" />
+        <meta property="og:title" content="{{ .Title }} " />
+        <meta property="og:description"
+            content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.Description }}{{ end }}" />
+        <meta property="og:image" 
+        content="{{if isset .Params " featured_image"}}{{.Params.featured_image}}
+                {{else}}https://ogi.sh/article?title={{replace .Title "%20" " " }}&subtitle=@hilmanski&unsplashId=3OR-XFzKSBo{{ end }}" />
+
+    <!-- Fonts -->
+    <link rel="dns-prefetch" href="//fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
+    
+    <!-- Styles -->
+    <link href="/css/main.css" rel="stylesheet">
+    
+    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+    <link rel="icon" href="/favicon.ico" type="image/x-icon">
+    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98864351-2"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'UA-98864351-2');
+    </script>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+
+<body>
+    <header>
+        <nav class="columns is-mobile flex-end">
+            <a href="/" id="navhome">Halo</a>
+        </nav>
+    </header>

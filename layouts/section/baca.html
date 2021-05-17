@@ -1,0 +1,22 @@
+{{ define "main" }}
+
+    {{ $v1 := where .Site.Pages "Section" "blog" }}
+    {{ $v2 := where .Site.Pages ".Title" "!=" "Blogs" }}
+    {{ $filtered := $v1 | intersect $v2}}
+
+    {{ $paginator := .Paginate ($filtered) }}
+    {{ range first 5 $paginator.Pages }}
+    <section class="article">
+        <h1 id="title" class="py-2"><a href="{{.Permalink}}"> {{.Title}} </a></h1>
+        <div>{{.Content}} </div>
+        <p> <a href="{{.Permalink}}#disqus_thread"> Komentar di sini</a> </p>
+    </section>
+    
+    <br><hr>
+    {{ end }}
+    
+    <br>
+    <a href="/tulisan">Baca tulisan lainnya di sini</a>
+
+
+{{ end }}
