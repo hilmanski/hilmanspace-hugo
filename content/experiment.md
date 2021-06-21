@@ -7,7 +7,11 @@ type = "page"
 layout = "custompage"
 +++ 
 
-[Labs](http://labs.hilman.space/)
+[Labs](https://freestuff.dev/)
+
+List of free stuff for developer. Built with hugo-SSG
+
+[Labs](https://labs.hilman.space/)
 
 My random experiment with code. I try to visualize my idea through some experiments.
 

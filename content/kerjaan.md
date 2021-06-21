@@ -12,6 +12,10 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
+[Labs](https://freestuff.dev/)
+
+Daftar layanan gratis untuk developer
+
 [Labs](http://labs.hilman.space/)
 
 Mencoba "kreatif koding". Hal hal random yang divisualisasikan dengan interaktif.  
