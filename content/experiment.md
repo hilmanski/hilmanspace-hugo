@@ -7,7 +7,7 @@ type = "page"
 layout = "custompage"
 +++ 
 
-[Labs](https://freestuff.dev/)
+[FreeStuff for Dev](https://freestuff.dev/)
 
 List of free stuff for developer. Built with hugo-SSG
 

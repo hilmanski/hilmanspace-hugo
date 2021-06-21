@@ -12,7 +12,7 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
-[Labs](https://freestuff.dev/)
+[FreeStuff for Dev](https://freestuff.dev/)
 
 Daftar layanan gratis untuk developer
 
