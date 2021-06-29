@@ -1,62 +1,22 @@
-<!DOCTYPE html>
-<html lang="id">
-
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Hilman Ramadhan | @hilmanski</title>
-    <meta name="description" content="Website dan blog pribadi Hilman Ramadhan, baca tulisan dan lihat eksperimen saya">
-    <meta name="author" content="@hilmanski">
-
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@hilmanski">
-    <meta name="twitter:creator" content="@hilmanski">
-    <meta name="twitter:title" content="Hilman Ramadhan | @hilmanski">
-    <meta name="twitter:url" content="https://hilman.space">
-    <meta name="twitter:description"
-        content="Website dan blog pribadi Hilman Ramadhan, baca tulisan dan lihat eksperimen saya">
-    <meta name="twitter:image:src" content="https://hilman.space/img/card.jpg">
-
-    <meta property="article:published_time" content="" />
-    <meta property="og:title" content="Hilman Ramadhan | @hilmanski" />
-    <meta property="og:description"
-        content="Website dan blog pribadi Hilman Ramadhan, baca tulisan dan lihat eksperimen saya" />
-    <meta property="og:url" content="https://hilman.space">
-    <meta property="og:image" content="https://hilman.space/img/card.jpg">
-
-
-    <!-- Fonts -->
-    <link rel="dns-prefetch" href="//fonts.gstatic.com">
-    <link href="https://fonts.googleapis.com/css2?family=Nunito&display=swap" rel="stylesheet">
-
-    <!-- Styles -->
-    <link href="/css/main.css" rel="stylesheet">
-
-    <link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
-    <link rel="icon" href="/favicon.ico" type="image/x-icon">
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-98864351-2"></script>
-    <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() { dataLayer.push(arguments); }
-        gtag('js', new Date());
-
-        gtag('config', 'UA-98864351-2');
-    </script>
-
+{{ define "main" }}
     <!-- Netlify cms  -->
     <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-</head>
 
-<body>
-    <header>
+     <section>
+        <h1>Halo, saya Hilman Ramadhan</h1>
+        <p class="text-size-m">Salam kenal, saya susah diam, biasanya berpikir, menulis atau bikin sesuatu seperti
+            sekolahkoding.com, ada yang berhasil banyak yang tidak. </p>
+    </section>
 
-        <nav class="columns is-mobile flex-end">
-            <a href="/" id="navhome">Halo</a>
-        </nav>
-
-    </header>
+    <footer>
+        <a href=/baca>Tulisan</a> /
+        <a href=https://anchor.fm/tehataukopi target=_blank>Podcast</a> /
+        <a href=/kerjaan>Kerjaan</a> /
+        <a href=https://labs.hilman.space target=_blank>Labs</a>
+        .<br><a href=/dukung>Dukung</a> /
+        <a href=/kontak>Kontak</a> /
+        <a target=_blank href=/blog/index.xml>RSS</a>
+    </footer>
 
 
     <style>
@@ -73,70 +33,12 @@
             margin-top: 20px;
             font-size: 1.1rem;
         }
-
-        footer a {
-            color: #3a91bd
-        }
     </style>
 
-    <section>
-        <h1>Halo, saya Hilman Ramadhan</h1>
-        <p class="text-size-m">Salam kenal, saya susah diam, biasanya berpikir, menulis atau bikin sesuatu seperti
-            sekolahkoding.com, ada yang berhasil banyak yang tidak. </p>
-    </section>
-
-
-    <footer>
-        <a href="/baca">Tulisan</a> /
-        <a href="https://anchor.fm/tehataukopi" target="_blank">Podcast</a> /
-        <a href="/kerjaan">Kerjaan</a> /
-        <a href="https://labs.hilman.space" target="_blank"> Labs</a>
-        . <br>
-        <a href="/dukung">Dukung</a> /
-        <a href="/kontak">Kontak </a> /
-        <a target=_blank href="/blog/index.xml">RSS</a>
-    </footer>
-
-
-    <footer id="footer">
-        <a href="/">Hi</a> -
-        <a href="/tulisan">Tulisan</a> -
-        <a href="/kerjaan">Eksperimen</a> -
-        <a href="/dukung">Dukung</a> -
-        <a href="#" onclick="toggleDarkMode()" id="themeBtn">🌚</a> &nbsp;
-    </footer>
-
     <script>
-
-        //remove hi @homepage
-        if (document.location.pathname === "/") {
-            document.getElementById('navhome').style.display = "none"
-            document.getElementById('footer').style.display = "none"
-        }
-
-        //check localstorage
-        if (localStorage.getItem('preferredTheme') == 'dark')
-            toggleDarkMode()
-
-        function toggleDarkMode() {
-            const themeBtn = document.getElementById('themeBtn')
-            let emoticon = ""
-            let isDark = document.body.classList.toggle("darkmode")
-
-            if (isDark) {
-                emoticon = "🌝"
-                localStorage.setItem('preferredTheme', 'dark');
-            } else {
-                emoticon = "🌚"
-                localStorage.removeItem('preferredTheme');
-            }
-
-            themeBtn.innerHTML = emoticon
-        }
-    </script>
-
-    <!-- Netlify CMS -->
-    <script>
+    //========================
+    //========== Netlify CMS 
+    //========================
     if (window.netlifyIdentity) {
         window.netlifyIdentity.on("init", user => {
           if (!user) {
@@ -147,6 +49,4 @@
         });
       }
     </script>
-</body>
-
-</html>
+{{ end }}
