@@ -12,6 +12,10 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
+[ 🌑 Mini-SSG](https://minissg.vercel.app/)  
+SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih rapi dengan sistem import, layout dan component
+
+
 [💸 FreeStuff for Dev](https://freestuff.dev/)  
 Daftar layanan gratis untuk developer  
 

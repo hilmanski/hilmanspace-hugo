@@ -7,6 +7,9 @@ type = "page"
 layout = "custompage"
 +++ 
 
+[ 🌑 Mini-SSG](https://minissg.vercel.app/)  
+Simple static site generator that helps you write reusable html files
+
 [💸 FreeStuff for Dev](https://freestuff.dev/)  
 List of free stuff for developer. Built with hugo-SSG  [/Open resource here/](https://github.com/hilmanski/freeStuffDev)
 
