@@ -6,10 +6,21 @@
     <description>Recent content on Hilman Ramadhan | @hilmanski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Sun, 13 Jun 2021 03:27:37 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Jul 2021 08:20:36 +0000</lastBuildDate>
     
 	<atom:link href="https://hilman.space/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Silver Play Button dari Youtube</title>
+      <link>https://hilman.space/youtube/</link>
+      <pubDate>Fri, 09 Jul 2021 08:20:36 +0000</pubDate>
+      
+      <guid>https://hilman.space/youtube/</guid>
+      <description>Kalau dulu saya membuat satu video setiap hari satu, orang tidak akan kaget. Tapi setelah beberapa tahun kemudian, sudah ada 1000 video lebih di channel youtube sekolahkoding, orang akan kaget. &amp;ldquo;Ko bisa?&amp;rdquo;
+Mendapatkan silver play button setelah 6 tahun lebih membuat video tentu saja bahagia. Saya berbagi bahagianya di sosial media, sama seperti saat saya meminta tolong untuk share informasi sekolahkoding ketika pertama kali dikerjakan.
+Waktu begitu cepat berlalu, pastikan kita sudah melakukan yang terbaik, hasilnya akan kita panen, mungkin dalam waktu dekat atau bertahun tahun kemudian.</description>
+    </item>
     
     <item>
       <title>Saya tidak stress</title>
@@ -58,15 +69,12 @@ Ko-Fi (via paypal)</description>
       
       <guid>https://hilman.space/kerjaan/</guid>
       <description>Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beritahu saya di sini
-Eksperimen [web] 🤙 🌑 Mini-SSG
+Eksperimen [web] 🤙 💬 Discussbase
+Forum simple yang open-source. Dibuat dengan SEVEN stack (supabase, vercel dan Next.js), memungkinkan kamu untuk membuat forum gratis tanpa perlu bayar hosting.
+🌑 Mini-SSG
 SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih rapi dengan sistem import, layout dan component
 💸 FreeStuff for Dev
-Daftar layanan gratis untuk developer
-⚗️ Labs
-Mencoba &amp;ldquo;kreatif koding&amp;rdquo;. Hal hal random yang divisualisasikan dengan interaktif.
-🏝 PuloDev
-Kumpulan konten developer Indonesia
-🪐 inispace [shutdown Nov-2020]</description>
+Daftar layanan gratis untuk developer</description>
     </item>
     
     <item>
@@ -90,14 +98,15 @@ Apa yang perlu dipersiapkan?</description>
       <pubDate>Mon, 10 May 2021 12:03:20 +0000</pubDate>
       
       <guid>https://hilman.space/experiment/</guid>
-      <description>🌑 Mini-SSG
+      <description>💬 Discussbase
+An open-source forum. Create discussion platform and deploy it completely free, Using “Seven-stack”(Supabase, Vercel and Next.js). Simplicity first. Focus on your discussion
+🌑 Mini-SSG
 Simple static site generator that helps you write reusable html files
 💸 FreeStuff for Dev
 List of free stuff for developer. Built with hugo-SSG /Open resource here/
 ⚗️ Labs
 My random experiment with code. I try to visualize my idea through some experiments.
-🏝 PuloDev
-My friend and I, want to collect all learning resources for programmer in Indonesian language. Through this website, people can save one link to their content or submit RSS and we&amp;rsquo;ll automate when there is new content available.</description>
+🏝 PuloDev</description>
     </item>
     
     <item>

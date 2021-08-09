@@ -12,6 +12,9 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
+[ 💬 Discussbase](https://discussbase.vercel.app/)  
+Forum simple yang open-source. Dibuat dengan SEVEN stack (supabase, vercel dan Next.js), memungkinkan kamu untuk membuat forum gratis tanpa perlu bayar hosting.
+
 [ 🌑 Mini-SSG](https://minissg.vercel.app/)  
 SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih rapi dengan sistem import, layout dan component
 

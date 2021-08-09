@@ -7,6 +7,10 @@ type = "page"
 layout = "custompage"
 +++ 
 
+[ 💬 Discussbase](https://discussbase.vercel.app/)  
+An open-source forum. Create discussion platform and deploy it completely free, Using “Seven-stack”(Supabase, Vercel and Next.js). Simplicity first. Focus on your discussion
+
+
 [ 🌑 Mini-SSG](https://minissg.vercel.app/)  
 Simple static site generator that helps you write reusable html files
 
