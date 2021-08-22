@@ -1,6 +1,14 @@
 {{ define "main" }}
 
 <h1>Tulisan Aneh</h1>
+ <div> <small>
+    {{ range $name, $taxonomy := .Site.Taxonomies.tags }}
+        {{ with $.Site.GetPage (printf "/tags/%s" $name) }}
+        <a class="tags-{{ $name }}" href="{{ .Permalink }}">#{{ $name }}</a> 
+        {{ end }}
+    {{ end }}
+    </small>
+</div>
 
 <br>
 <ul id="post">

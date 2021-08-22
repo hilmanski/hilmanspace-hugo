@@ -6,6 +6,7 @@ description: Mudah untuk menghakimi orang, selalu memberi tanggapan negatif
 slug: judging
 date: 2021-06-08T13:11:56.267Z
 thumbnail: https://i.ibb.co/crmpdkN/Screen-Shot-2021-06-08-at-9-14-06-PM.png
+tags: manusia
 ---
 *"Ko kuliahnya ngga selesai selesai, sudah berapa tahun? main game terus ya?*
 

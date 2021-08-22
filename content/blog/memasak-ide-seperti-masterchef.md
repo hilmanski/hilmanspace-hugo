@@ -6,8 +6,7 @@ description: Saya akan menulis tentang masterchef, tapi ini bukan tentang
 slug: masterchef
 date: 2021-08-06T21:50:34.823Z
 thumbnail: https://i.ibb.co/BCCZDTB/Screen-Shot-2021-08-12-at-3-07-15-PM.png
-tags:
-  - kerja
+tags: kerja
 ---
 Saya akan menulis tentang masterchef, tapi ini bukan tentang masterchef. Sedikit penjelasan apa itu masterchef: kompetisi memasak di televisi, di mana peserta akan diberi waktu untuk memasak dengan tema atau bahan tertentu.
 
