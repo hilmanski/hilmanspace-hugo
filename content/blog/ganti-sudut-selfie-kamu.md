@@ -6,7 +6,7 @@ description: Kalau kamu merasa tidak "keren" di selfie kamu. Coba ganti posisi
   juga sebaliknya.
 slug: selfie
 date: 2021-08-24T22:25:39.914Z
-thumbnail: https://i.ibb.co/Bndnm68/Screen-Shot-2021-08-25-at-6-29-11-AM.png
+featured_image: https://i.ibb.co/Bndnm68/Screen-Shot-2021-08-25-at-6-29-11-AM.png
 tags: kesehatan-mental
 ---
 Taylor Otwell, salah seorang tokoh di dunia programming menuliskan cuitan 

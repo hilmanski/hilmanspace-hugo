@@ -5,7 +5,7 @@ description: Jangan masuk ke internet dengan pikiran kosong. Ini tempat
   berbahaya, lebih baik kamu tidak ke sini
 slug: internet
 date: 2021-08-27T02:55:20.299Z
-thumbnail: https://i.ibb.co/GsRPLFZ/Screen-Shot-2021-08-27-at-10-56-14-AM.png
+featured_image: https://i.ibb.co/GsRPLFZ/Screen-Shot-2021-08-27-at-10-56-14-AM.png
 tags: kerja
 ---
 Jangan masuk ke internet dengan pikiran kosong. Ini tempat berbahaya, lebih baik kamu tidak ke sini.

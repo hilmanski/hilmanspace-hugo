@@ -6,7 +6,7 @@ description: "Saya belum pernah bertemu orang sebaik kamu. Saat semua orang
   Dermawan sekali kamu dengan waktumu! "
 slug: dermawan-waktu
 date: 2021-08-22T21:56:21.577Z
-thumbnail: https://i.ibb.co/Ksymw3H/Screen-Shot-2021-08-23-at-6-14-39-AM.png
+featured_image: https://i.ibb.co/Ksymw3H/Screen-Shot-2021-08-23-at-6-14-39-AM.png
 tags: kerja
 ---
 Kamu sangat dermawan dengan waktumu
