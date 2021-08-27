@@ -12,6 +12,9 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
+[ 💻  Bikin-Bikin Club](https://bikin.club/)  
+Komunitas(Forum) untuk kamu yang suka bikin bikin di internet. 
+
 [ 💬 Discussbase](https://discussbase.vercel.app/)  
 Forum simple yang open-source. Dibuat dengan SEVEN stack (supabase, vercel dan Next.js), memungkinkan kamu untuk membuat forum gratis tanpa perlu bayar hosting.
 
