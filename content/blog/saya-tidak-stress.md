@@ -5,7 +5,7 @@ description: Kadang kita mengira sedang stress, ternyata ada aktivitas kecil y
   ang kalau dilakukan bisa hilang langsung stressnya
 slug: tidak-stress
 date: 2021-06-13T03:27:37.482Z
-thumbnail: https://i.ibb.co/hLNtpSS/Screen-Shot-2021-06-13-at-11-32-59-AM.png
+featured_image: https://i.ibb.co/hLNtpSS/Screen-Shot-2021-06-13-at-11-32-59-AM.png
 tags: kesehatan-mental
 ---
 Beberapa kali saya mengira saya sedang stress karena pekerjaan, ternyata..

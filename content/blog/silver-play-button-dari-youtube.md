@@ -5,7 +5,7 @@ description: Kemarin dapat silver play button dari youtube, tanda sudah 100.000
   subscriber. Senang dan refleksi beberapa tahun lalu tentang membuat video
 slug: youtube
 date: 2021-07-09T08:20:36.396Z
-thumbnail: https://i.ibb.co/8mtB1dC/Screen-Shot-2021-07-09-at-4-30-55-PM.png
+featured_image: https://i.ibb.co/8mtB1dC/Screen-Shot-2021-07-09-at-4-30-55-PM.png
 tags: kerja
 ---
 Kalau dulu saya membuat satu video setiap hari satu, orang tidak akan kaget. Tapi setelah beberapa tahun kemudian, sudah ada 1000 video lebih di channel youtube sekolahkoding, orang akan kaget. "Ko bisa?"

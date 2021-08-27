@@ -6,7 +6,7 @@ description: Punya pendapat sering kali bikin kita semangat. Memaksa semua orang
   kemudian hari.
 slug: pendapat
 date: 2021-08-21T23:04:51.624Z
-thumbnail: https://i.ibb.co/2vVnFqW/Screen-Shot-2021-08-22-at-7-06-58-AM.png
+featured_image: https://i.ibb.co/2vVnFqW/Screen-Shot-2021-08-22-at-7-06-58-AM.png
 tags: manusia
 ---
 Pendapat kita bersifat sementara
