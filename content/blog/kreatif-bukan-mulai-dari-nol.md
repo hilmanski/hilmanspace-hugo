@@ -48,7 +48,7 @@ Kamu tidak sadar, dengan mencoba banyak hal kamu sedang memperbesar faktor kreat
 
 Semakin banyak kamu belajar dan mencoba, kamu akan semakin dekat dengan kreatif.
 
-## Mengawinkan berbagai bidang
+## Mengawinkan berbagai hal
 Bisnis tidak bisa berdiri hanya dengan ilmu ekonomi. Berapa banyak lulusan ekonomi yang tidak membuat bisnis? Ekonomi adalah salah satu faktor untuk merakit suatu hal yang baru.
 
 Kawinkan ekonomi dengan makanan, jadilah bisnis restoran. 
@@ -57,6 +57,12 @@ dan seterusnya.
 
 Saat kamu merasa buntu dengan karyamu, celupkan kakimu di sungai yang lain. Memang akan terasa dingin di awal.
 
+Bukan hanya mengawinkan "keseluruhan bidang", kamu pun bisa pelajari hal-hal kecil.
+
 Amati bagaimana cara seseorang menyelesaikan masalah di bidangnya, apakah kamu bisa mengimplementasikan garis besar tersebut ke bidang kamu?
 
 Amati bagaimana seseorang saat sedang berkarya, pelajari profil mereka. Apakah ada hal yang bisa kamu tiru dan tuangkan di kanvasmu sendiri?
+
+Saat ada yang menurutmu keren, wow atau takjub dari hal-hal yang kamu sukai, coba pikirkan bagaimana hal tersebut bisa diterjemahkan di karyamu.
+
+Sering kali saat sedang menonton film atau melihat kejadian kita merasa takjub, tapi hanya berhenti di sana. Coba catat dan pikirkan, apa yang bisa kamu bawa dan kawinkan.
