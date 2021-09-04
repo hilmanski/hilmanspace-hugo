@@ -26,8 +26,8 @@ SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih
 Daftar layanan gratis untuk developer  
 
 
-[⚗️ Labs](https://labs.hilman.space/)  
-Mencoba "kreatif koding". Hal hal random yang divisualisasikan dengan interaktif.  
+[⚗️ JurnalDev](https://jurnal.dev/)  
+Tulisan dan playground di dunia koding
   
   
 [🏝 PuloDev](https://pulo.dev/)  

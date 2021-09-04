@@ -19,9 +19,6 @@ Simple static site generator that helps you write reusable html files
 [💸 FreeStuff for Dev](https://freestuff.dev/)  
 List of free stuff for developer. Built with hugo-SSG  [/Open resource here/](https://github.com/hilmanski/freeStuffDev)
 
-[⚗️ Labs](https://labs.hilman.space/)  
-My random experiment with code. I try to visualize my idea through some experiments.
-
 [🏝 PuloDev](https://pulo.dev/)  
 My friend and I, want to collect all learning resources for programmer in Indonesian language. Through this website, people can save one link to their content or submit RSS and we'll automate when there is new content available.
 [/Code available here/](https://github.com/pulodev)
