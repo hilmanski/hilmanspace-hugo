@@ -12,6 +12,9 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
+[🕶 Showing Up](https://showingup.today/)
+kumpulan personal aplikasi produktivitas di satu tempat.
+
 [ 💻  Bikin-Bikin Club](https://bikin.club/)  
 Komunitas(Forum) untuk kamu yang suka bikin bikin di internet. 
 

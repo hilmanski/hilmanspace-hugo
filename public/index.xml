@@ -157,7 +157,8 @@ Ko-Fi (via paypal)</description>
       
       <guid>https://hilman.space/kerjaan/</guid>
       <description>Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beritahu saya di sini
-Eksperimen [web] 🤙 💻 Bikin-Bikin Club
+Eksperimen [web] 🤙 🕶 Showing Up kumpulan personal aplikasi produktivitas di satu tempat.
+💻 Bikin-Bikin Club
 Komunitas(Forum) untuk kamu yang suka bikin bikin di internet.
 💬 Discussbase
 Forum simple yang open-source. Dibuat dengan SEVEN stack (supabase, vercel dan Next.js), memungkinkan kamu untuk membuat forum gratis tanpa perlu bayar hosting.
@@ -166,18 +167,18 @@ SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih
     </item>
     
     <item>
-      <title>kontak hilmanski</title>
+      <title>Kontak saya</title>
       <link>https://hilman.space/kontak/</link>
       <pubDate>Mon, 10 May 2021 12:03:20 +0000</pubDate>
       
       <guid>https://hilman.space/kontak/</guid>
-      <description>Instagram: @hilmanski
-Twitter: @hilmanski
+      <description>Twitter/IG: @hilmanski
 Email ada di bawah, sebelum kirim email, baca dulu ya
-FAQ (Email yang jarang dibalas) Bertanya teknis programming? bisa di forum &amp;amp; untuk non-teknis bisa baca buku ini . Bertanya seputar memulai usaha? Catatan  seputar startup
-FAQ Mengundang Acara Bagaimana cara mengundang?
-Silahkan kirim email, dengan detail informasi acaranya: apa yang diharapkan? siapa target audience (dan kisaran jumlah)? dimana? dan kapan?
-Apa yang perlu dipersiapkan?</description>
+FAQ (Email yang jarang dibalas) Bertanya teknis programming? bisa di forum &amp;amp; untuk non-teknis bisa baca buku ini.
+FAQ Mengundang Acara Apakah bisa undang ke acara kami? Saat ini, tidak bisa.
+Kami punya acara, apakah sekolahkoding mau jadi media partner / sponsor / memasang booth?
+Tidak, terima kasih
+Email hi(at)hilman(dot)space</description>
     </item>
     
     <item>
@@ -186,16 +187,15 @@ Apa yang perlu dipersiapkan?</description>
       <pubDate>Mon, 10 May 2021 12:03:20 +0000</pubDate>
       
       <guid>https://hilman.space/experiment/</guid>
-      <description>💻 Bikin-Bikin Club
+      <description>🕶 Showing Up All in one productivity app online, to help you, show up every day.
+💻 Bikin-Bikin Club
 A community for maker/indiehacker from Indonesia
 💬 Discussbase
 An open-source forum. Create discussion platform and deploy it completely free, Using “Seven-stack”(Supabase, Vercel and Next.js). Simplicity first. Focus on your discussion
 🌑 Mini-SSG
 Simple static site generator that helps you write reusable html files
 💸 FreeStuff for Dev
-List of free stuff for developer. Built with hugo-SSG /Open resource here/
-🏝 PuloDev
-My friend and I, want to collect all learning resources for programmer in Indonesian language.</description>
+List of free stuff for developer.</description>
     </item>
     
     <item>
