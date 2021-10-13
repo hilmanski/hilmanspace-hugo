@@ -62,6 +62,8 @@ Mulai sangatlah sulit. Kamu akan mencari berbagai alasan untuk tidak memulainya.
 **Ketakutan**  
 Setelah mulai akan muncul rasa takut atau malu. Hey! website yang kamu buat tidak harus langsung dibagikan. Kamu bisa menyimpannya untuk diri kamu sendiri. Nanti saat kamu merasa nyaman, baru kamu bagikan link nya ke orang lain.
 
+Kita akan mati. Kenapa menyimpan sesuatu yang menarik sendirian saja? Yuk coba hal baru dan bagikan ke dunia ini.
+
 **Konsisten**  
 Ini adalah rajanya. Banyak yang  bisa memulai, tapi sedikit yang bisa disiplin mengisi kebun digital ini.
 
