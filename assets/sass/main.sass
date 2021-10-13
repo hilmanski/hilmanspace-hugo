@@ -1,5 +1,6 @@
-$lightLinkGradient : linear-gradient(180deg,transparent 0,transparent 60%,#fbf36d 0,#fbf36d)
+$lightLinkGradient : linear-gradient(180deg,transparent 0,transparent 70%,#fbf36d 0,#FCE120)
 $darkLinkGradient : linear-gradient(180deg,transparent 0,transparent 70%, #86CDFF 0,#79A6E8)
+$lightLinkGradientHover : linear-gradient(180deg,transparent 0,transparent 70%,#FCE120 0,#EBFF17)
 
 body 
 	font-family: Nunito,"sans-serif"
@@ -33,6 +34,9 @@ a
 	text-decoration: none
 	background: $lightLinkGradient
 	color: #454b4e
+	transition: background 0.5 ease
+	&:hover
+		background: $lightLinkGradientHover
 
 img 
 	max-width: 100%

@@ -3,27 +3,32 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://hilman.space/buku/</loc>
+    <lastmod>2021-09-25T21:24:13+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://hilman.space/blog/</loc>
-    <lastmod>2021-09-02T23:34:59+00:00</lastmod>
+    <lastmod>2021-09-25T21:24:13+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hilman.space/</loc>
-    <lastmod>2021-09-02T23:34:59+00:00</lastmod>
+    <lastmod>2021-09-25T21:24:13+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hilman.space/tags/inspirasi/</loc>
-    <lastmod>2021-09-02T23:34:59+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://hilman.space/kreatif/</loc>
-    <lastmod>2021-09-02T23:34:59+00:00</lastmod>
+    <lastmod>2021-09-25T21:24:13+00:00</lastmod>
   </url>
   
   <url>
     <loc>https://hilman.space/tags/</loc>
+    <lastmod>2021-09-25T21:24:13+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://hilman.space/kreatif/</loc>
     <lastmod>2021-09-02T23:34:59+00:00</lastmod>
   </url>
   
