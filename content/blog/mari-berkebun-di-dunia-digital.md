@@ -82,7 +82,7 @@ Tidak ada aturan main. Kamu tidak harus menampilkannya secara terstruktur sepert
 [🌱 My blog is a digital garden, not a blog](https://joelhooks.com/digital-garden)
 
 ## Penutup
-Mari berkebun! mention saya di [twitter](https://twitter.com/hilmanski) kalau ingin menunjukkan websitemu atau ada pertanyaan lainnya.
+Mari berkebun! silahkan tulis di komentar atau mention saya di [twitter](https://twitter.com/hilmanski) kalau ingin menunjukkan websitemu atau ada pertanyaan lainnya.
 
 Saya pribadi cukup kaget, karena saat google "kebun digital" belum ada artikel berbahasa Indonesia yang membahas ini (belum muncul di hasil pencarian utama). Karena itu saya ingin mengajak teman-teman untuk menulis tentang "Kebun digital" ini untuk lebih mempopulerkannya.
 
