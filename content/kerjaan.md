@@ -51,6 +51,10 @@ Video tutorial programming dalam bahasa indonesia, lengkap dengan forum untuk be
 
 ### Eksperimen [tulisan] 🤙
 
+[Halo Koding](https://halokoding.com/)  
+Yuk kenalan dengan "koding". Ubah dunia menjadi lebih baik.
+Buku ini tidak terbatas oleh waktu. Tidak terbatas bahasa program
+
 [Filosofi Koding](https://hilmanski.gitbook.io/filosofi-koding/)  
 Refleksi apa yang bisa dipelajari dari dunia koding, untuk diimplementasikan di dunia nyata
 
