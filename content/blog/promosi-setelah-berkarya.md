@@ -7,7 +7,7 @@ description: Setelah membuat karya sekian lama, hal yang paling mudah dilakukan
 slug: promosi
 date: 2021-10-28T22:15:52.348Z
 featured_image: https://i.ibb.co/ZXqKqNT/halokoding-1.jpg
-tags: kerja, inspirasi
+tags: menulis
 ---
 Setelah membuat karya sekian lama, hal yang paling mudah dilakukan adalah bersembunyi. Berharap orang lain akan menemukan karya kita dan mempromosikannya.
 

@@ -4,7 +4,7 @@ slug = "editor-mode-off"
 description = "Ingin menulis novel atau cerpen atau 1 artikel blog, tapi tidak jadi-jadi?Matikan 'mode editor' kamu. Jangan berperan se"
 date = "2019-02-11T09:58:22Z"
 featured_image = ""
-tags = "kerja"
+tags = "menulis"
 draft = false
 +++ 
 Ingin menulis novel atau cerpen atau 1 artikel blog, tapi tidak jadi-jadi?

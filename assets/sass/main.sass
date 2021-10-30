@@ -1,6 +1,7 @@
-$lightLinkGradient : linear-gradient(180deg,transparent 0,transparent 70%,#fbf36d 0,#FCE120)
+$lightYellowGradient : linear-gradient(180deg,transparent 0,transparent 70%,#fbf36d 0,#FCE120)
+$lightGreenGradient : linear-gradient(180deg,transparent 0,transparent 70%,#B7FFA3 0,#82FF8D)
 $darkLinkGradient : linear-gradient(180deg,transparent 0,transparent 70%, #86CDFF 0,#79A6E8)
-$lightLinkGradientHover : linear-gradient(180deg,transparent 0,transparent 70%,#FCE120 0,#EBFF17)
+$lightYellowGradientHover : linear-gradient(180deg,transparent 0,transparent 70%,#FCE120 0,#EBFF17)
 
 body 
 	font-family: Nunito,"sans-serif"
@@ -32,11 +33,11 @@ header
 		
 a 
 	text-decoration: none
-	background: $lightLinkGradient
+	background: $lightYellowGradient
 	color: #454b4e
 	transition: background 0.5 ease
 	&:hover
-		background: $lightLinkGradientHover
+		background: $lightYellowGradientHover
 
 img 
 	max-width: 100%
@@ -45,6 +46,9 @@ ul
 	li 
 		list-style-position: inside
 		margin-bottom: 10px
+
+#post li a, .article #title a
+		background: $lightGreenGradient
 	
 .py-2 
 	padding-top: 20px
