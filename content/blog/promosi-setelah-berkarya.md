@@ -16,4 +16,6 @@ Sayangnya bukan itu yang terjadi. Pekerjaan kamu belum selesai. Setelah selesai 
 Bangga dengan apa yang kamu kerjakan.  
 Hargai waktu yang sudah kamu gunakan.  
 
-Jangan malu, kalau bukan kamu yang meluaskannya, siapa lagi
+Jangan malu, kalau bukan kamu yang meluaskannya, siapa lagi.
+
+Saya baru saja menulis [buku halo koding](https://halokoding.com/). Menulis artikel ini, adalah salah satu cara mempromosikannya.
