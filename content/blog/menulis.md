@@ -1,12 +1,15 @@
-+++
-title = "Menulis untuk menulis"
-slug = "menulis"
-description = "kalau kamu mau mulai menulis tapi bingung untuk apa saya harus menulis? apa alasan dan motivasi yang tepat untuk mulai menulis atau membuat blog?"
-date = "2019-03-05T16:00:00Z"
-featured_image = ""
-tags = ""
-draft = false
-+++ 
+---
+title: Menulis untuk menulis
+description: kalau kamu mau mulai menulis tapi bingung untuk apa saya harus
+  menulis? apa alasan dan motivasi yang tepat untuk mulai menulis atau membuat
+  blog?
+slug: menulis
+date: 2019-03-05T16:00:00Z
+featured_image: https://i.ibb.co/h92W6j7/Screen-Shot-2021-10-30-at-1-51-22-PM.png
+tags: menulis
+draft: false
+---
+ 
 
 Saya tidak membuat karya hanya untuk mendapatkan komentar, apalagi sekadar pujian "luar biasa", "keren" dan lainnya. Saya sedang belajar: menulis hanya untuk menulis. Bagaimana dengan jumlah pengunjung website?  saya juga tidak peduli berapa banyak orang yang baca, saya akan tetap menulis. (saya menggunakan analytics untuk keperluan lain)
 
@@ -29,6 +32,6 @@ Bisa membuat sesuatu yang tanpa diduga bisa membantu karir dan kehidupan orang l
 Entahlah.. ada banyak manfaat saat mulai menulis dan membagikan ide yang kamu punya. Tapi untuk mulai menulis tanpa beban.. menulislah untuk menulis.
 
 Beberapa tips untuk menulis:  
-[Mulai belajar menulis](https://hilman.space/mulai-belajar-menulis-/)  
+[Mulai belajar menulis](https://hilman.space/mulai-belajar-menulis/)  
 [Jangan edit dulu](https://hilman.space/editor-mode-off/)  
 [Tidak perlu sempurna](https://hilman.space/karya-tidak-perlu-sempurna/)
