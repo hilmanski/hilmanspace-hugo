@@ -37,7 +37,7 @@ Telepon atau bertemu langsung = LIVE. Tidak ada waktu untuk berpikir dengan mata
 
 ### Waktu itu berharga meeeen
 
-Untuk kamu yang sering terlambat, kamu sudah mencuri waktu orang lain. Sering kali saat acara, ada "pahlawan kesiangan" yang harus selalu ditunggu. Saat orang lain sudah mau pulan, dia baru datang, orang lain harus "pesan makanan/minuman" lagi untuk menemani beliau sang raja terakhir. Topik yang sudah dibahas harus dibahas lagi, untuk menghibur sang ratu delay ini. Belajarlah menghargai waktu orang lain.
+Untuk kamu yang sering terlambat, kamu sudah mencuri waktu orang lain. Sering kali saat acara, ada "pahlawan kesiangan" yang harus selalu ditunggu. Saat orang lain sudah mau pulang, dia baru datang, orang lain harus "pesan makanan/minuman" lagi untuk menemani beliau sang raja terakhir. Topik yang sudah dibahas harus dibahas lagi, untuk menghibur sang ratu delay ini. Belajarlah menghargai waktu orang lain.
 
 ### Berikutnya saat berjanji
 
@@ -45,4 +45,4 @@ JIka tidak perlu bertemu langsung, tidak usah! Jangan mengira tidak sopan. Tidak
 
 Selesaikan masalah dengan teknologi yang ada. Pesan singkat atau telepon jika perlu. To the point, tanpa mengurangi rasa sopan.  Ini lebih menghargai waktu orang lain. Jika memang orangnya tertarik dan perlu.. silahkan bertemu.
 
-Untuk mengatur jadwal, pikirkan semua FAKTOR X yang akan menghalangi kamu. Jika kamu bekerja, apakah biasanya pekerjaan selesai tepat waktu? jangan bilang iya saya lowong jam 5, tapi biasanya di kantor sampai jam 6. Perkirakan semuanya apakah kamu akan terlmabat, butuh berapa lam di jalan, apakah akan macet, dan faktor X lainnya. Setujui waktu yang kamu mmapu hadir. Waktu orang lain berharga.
+Untuk mengatur jadwal, pikirkan semua FAKTOR X yang akan menghalangi kamu. Jika kamu bekerja, apakah biasanya pekerjaan selesai tepat waktu? jangan bilang iya saya lowong jam 5, tapi biasanya di kantor sampai jam 6. Perkirakan semuanya apakah kamu akan terlambat, butuh berapa lama di jalan, apakah akan macet, dan faktor X lainnya. Setujui waktu yang kamu mmapu hadir. Waktu orang lain berharga.
