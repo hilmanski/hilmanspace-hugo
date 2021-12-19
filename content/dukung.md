@@ -7,7 +7,7 @@ type = "page"
 layout = "custompage"
 +++ 
 
-Halo, saya Hilman Ramadhan. Saya banyak menulis dan bereksperimen. Kamu bisa melihat [daftarnya di sini](https://hilman.space/eksperimen)
+Halo, saya Hilman Ramadhan. Saya banyak menulis dan bereksperimen. Kamu bisa melihat [daftarnya di sini](https://hilman.space/kerjaan)
 
 Untuk support kegiatan saya secara finansial silahkan ke link di bawah, terima kasih banyak sebelum dan sesudahnya!
 
