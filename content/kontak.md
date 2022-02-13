@@ -14,7 +14,7 @@ Email ada di bawah, sebelum kirim email, baca dulu ya
 
 ### FAQ (Email yang jarang dibalas)
 
-Bertanya teknis programming? [bisa di forum](https://sekolahkoding.com/forum) & untuk non-teknis bisa baca [buku ini](https://bit.ly/hadiah-programmer).
+Bertanya teknis programming? [bisa di forum](https://sekolahkoding.com/forum) & untuk non-teknis bisa baca [buku ini](https://halokoding.com).
 
 ### FAQ Mengundang Acara
 
