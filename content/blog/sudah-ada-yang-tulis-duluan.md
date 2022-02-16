@@ -6,8 +6,7 @@ description: Sering tidak.. kamu membaca sesuatu, lalu bilang.. wah saya kalah
 slug: sudahada
 date: 2022-02-14T11:22:52.064Z
 featured_image: https://i.ibb.co/xJmvQGx/Screen-Shot-2022-02-16-at-2-47-06-PM.png
-tags:
-  - menulis
+tags: menulis
 ---
 Sering tidak sih kita bilang "Wah saya baru mau menulis tentang X.. sudah ada yang menulis duluan". 
 
