@@ -12,6 +12,9 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
+[🌏 Bikin Space](https://bikin.space/)  
+Kumpulan artikel dan link menarik untuk kreator di internet. Cocok untuk kamu yang suka bikin-bikin!
+
 [🕶 Showing Up](https://showingup.today/)  
 kumpulan personal aplikasi produktivitas di satu tempat.
 
