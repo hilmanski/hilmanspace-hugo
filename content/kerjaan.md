@@ -30,10 +30,6 @@ SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih
 
 [💸 FreeStuff for Dev](https://freestuff.dev/)  
 Daftar layanan gratis untuk developer  
-
-
-[⚗️ JurnalDev](https://jurnal.dev/)  
-Tulisan dan playground di dunia koding
   
   
 [🏝 PuloDev](https://pulo.dev/)  
