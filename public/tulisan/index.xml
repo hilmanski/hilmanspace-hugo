@@ -5,10 +5,6 @@
     <link>https://hilman.space/tulisan/</link>
     <description>Recent content on Hilman Ramadhan | @hilmanski</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>id</language>
-    
-	<atom:link href="https://hilman.space/tulisan/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <language>id</language><atom:link href="https://hilman.space/tulisan/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
