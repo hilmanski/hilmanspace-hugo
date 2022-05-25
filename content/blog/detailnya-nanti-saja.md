@@ -17,4 +17,8 @@ Sesuatu yang abstrak bikin kita malas untuk menyentuhnya, seakan ada hari esok y
 
 Sayangnya tidak, kamu perlu bangun dan membuat detailnya. Mulai dari detail masalah apa yang mau kamu hadapi sekarang. Dan detail langkah langkah kamu, paling tidak langkah awal. Agar kamu mulai bergerak.
 
+Coret di atas kertas atau pakai aplikasi mencatat tercanggih yang kamu punya. Tuangkan detailnya sejauh mungkin. Agar kamu bisa mulai untuk melangkah. 
+
+JIka masih kurang jelas dan masih terlalu berat, bikin lebih detail lagi, sampai ada langkah pertama yang bisa kamu kerjakan.
+
 Jangan terus membiarkan tugas menggantung di kepala, bikin detailnya sekarang.
