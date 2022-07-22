@@ -7,6 +7,9 @@ type = "page"
 layout = "custompage"
 +++ 
 
+[🛠 Find Developer Tools](https://finddev.tools/)  
+Collection of developer tools that nicely categorized. For developer by developer. 
+
 [🕶 Showing Up](https://showingup.today/)  
 All in one productivity app online, to help you, show up every day.
 

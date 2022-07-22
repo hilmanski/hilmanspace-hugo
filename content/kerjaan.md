@@ -12,13 +12,16 @@ Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beri
 
 ### Eksperimen [web] 🤙
 
+[🛠 Find Developer Tools](https://finddev.tools/)  
+Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya.
+
 [🌏 Bikin Space](https://bikin.space/)  
 Kumpulan artikel dan link menarik untuk kreator di internet. Cocok untuk kamu yang suka bikin-bikin!
 
 [🕶 Showing Up](https://showingup.today/)  
 kumpulan personal aplikasi produktivitas di satu tempat.
 
-[ 💻  Bikin-Bikin Club](https://bikin.club/)  
+[ 💻  Bikin-Bikin Club - ONPAUSE](https://bikin.club/)  
 Komunitas(Forum) untuk kamu yang suka bikin bikin di internet. 
 
 [ 💬 Discussbase](https://discussbase.vercel.app/)  
