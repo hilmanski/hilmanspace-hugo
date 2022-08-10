@@ -7,9 +7,6 @@ type = "page"
 layout = "custompage"
 +++ 
 
-
-Catatan: Saya terbuka untuk bekerja kalau ada proyek yang menarik. Silahkan beritahu [saya di sini](https://hilman.space/kontak)
-
 ### Eksperimen [web] 🤙
 
 [🛠 Find Developer Tools](https://finddev.tools/)  
@@ -20,6 +17,10 @@ Kumpulan artikel dan link menarik untuk kreator di internet. Cocok untuk kamu ya
 
 [🕶 Showing Up](https://showingup.today/)  
 kumpulan personal aplikasi produktivitas di satu tempat.
+
+
+[🎨 Kanvas](https://kanvas.hilman.space/)  
+Karya-karya visual yang dibuat dengan HTML/CSS/JS 
 
 [ 💻  Bikin-Bikin Club - ONPAUSE](https://bikin.club/)  
 Komunitas(Forum) untuk kamu yang suka bikin bikin di internet. 
