@@ -10,11 +10,11 @@ layout = "custompage"
 [🛠 Find Developer Tools](https://finddev.tools/)  
 Collection of developer tools that nicely categorized. For developer by developer. 
 
-[🕶 Showing Up](https://showingup.today/)  
+[🕶 Showing Up](https://showinguptoday.vercel.app/)  
 All in one productivity app online, to help you, show up every day.
 
-[ 💻  Bikin-Bikin Club](https://bikin.club/)  
-A community for maker/indiehacker from Indonesia
+[ 💻  Bikin-Bikin Club (On Pause)](https://bikinclub.vercel.app/)  
+A community for maker/indiehacker from Indonesia. Made with my open source forum "discussbase".
 
 [ 💬 Discussbase](https://discussbase.vercel.app/)  
 An open-source forum. Create discussion platform and deploy it completely free, Using “Seven-stack”(Supabase, Vercel and Next.js). Simplicity first. Focus on your discussion

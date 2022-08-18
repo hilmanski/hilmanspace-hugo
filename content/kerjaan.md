@@ -13,16 +13,16 @@ layout = "custompage"
 Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya.
 
 [🌏 Bikin Space](https://bikin.space/)  
-Kumpulan artikel dan link menarik untuk kreator di internet. Cocok untuk kamu yang suka bikin-bikin!
+Artikel, video dan link menarik untuk kreator di internet. Cocok untuk kamu yang suka bikin-bikin!
 
-[🕶 Showing Up](https://showingup.today/)  
-kumpulan personal aplikasi produktivitas di satu tempat.
+[🕶 Showing Up](https://showinguptoday.vercel.app/)  
+Beberapa mini aplikasi produktivitas di satu tempat.
 
 
 [🎨 Kanvas](https://kanvas.hilman.space/)  
 Karya-karya visual yang dibuat dengan HTML/CSS/JS 
 
-[ 💻  Bikin-Bikin Club - ONPAUSE](https://bikin.club/)  
+[ 💻  Bikin-Bikin Club - ONPAUSE](https://bikinclub.vercel.app/)  
 Komunitas(Forum) untuk kamu yang suka bikin bikin di internet. 
 
 [ 💬 Discussbase](https://discussbase.vercel.app/)  
