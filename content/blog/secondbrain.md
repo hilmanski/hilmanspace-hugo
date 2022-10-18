@@ -3,6 +3,7 @@ title: "Apa itu Second Brain? 🧠"
 slug: "secondbrain"
 description: "Menulis untuk membuat otak kedua (second brain). Asisten untuk membantu kamu berpikir"
 date: 2022-10-17T11:24:57+08:00
+tags: menulis
 ---
 
 Bagaimana kalau kamu punya asisten untuk berpikir? Asisten ini punya kemampuan untuk:   

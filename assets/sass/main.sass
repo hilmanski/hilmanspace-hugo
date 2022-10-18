@@ -57,6 +57,7 @@ ul
 .article, .page
 	h1
 		margin: 40px 0 20px
+		color: #5bc399
 	p, ol, ul, img
 		margin-top: 15px
 	li
@@ -67,12 +68,25 @@ ul
 	h2
 		font-size: 25px
 		margin: 30px 0 10px
+		color: #6DE7B7
+		&::before
+    		content: "// "
 	h3
 		font-size: 22px
 		margin: 15px 0 10px
+		color: #6DE7B7
+		&::before
+    		content: "/// "
 	h4
 		font-size: 22px
 		margin: 15px 0 10px
+	code
+		background-color: #a65050
+		padding: 2px
+		border-radius: 5px
+		font-size: 1rem
+	iframe
+    	margin: 25px auto
 	div
 		a
 			background: none
@@ -113,6 +127,9 @@ footer
 
 	h2
 		font-size: 1.1rem
+
+	.single code
+        font-size: 0.8rem
 
 @media screen and (min-width:1200px)
 	body
