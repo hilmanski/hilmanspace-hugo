@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hilman.space/blog/</loc>
-    <lastmod>2022-05-25T02:49:16+00:00</lastmod>
+    <loc>https://hilman.space/secondbrain/</loc>
+    <lastmod>2022-10-17T11:24:57+08:00</lastmod>
   </url><url>
-    <loc>https://hilman.space/detail/</loc>
-    <lastmod>2022-05-25T02:49:16+00:00</lastmod>
+    <loc>https://hilman.space/blog/</loc>
+    <lastmod>2022-10-17T11:24:57+08:00</lastmod>
   </url><url>
     <loc>https://hilman.space/</loc>
+    <lastmod>2022-10-17T11:24:57+08:00</lastmod>
+  </url><url>
+    <loc>https://hilman.space/detail/</loc>
     <lastmod>2022-05-25T02:49:16+00:00</lastmod>
   </url><url>
     <loc>https://hilman.space/tags/kerja/</loc>
