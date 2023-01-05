@@ -9,6 +9,9 @@ layout = "custompage"
 
 ### Eksperimen [web] 🤙
 
+[⌨️ KODING](https://kodi.ng/)  
+Referensi pemrograman dalam bahasa Indonesia.
+
 [🛠 Find Developer Tools](https://finddev.tools/)  
 Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya.
 
