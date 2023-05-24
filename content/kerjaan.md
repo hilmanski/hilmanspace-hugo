@@ -9,6 +9,9 @@ layout = "custompage"
 
 ### Eksperimen [web] 🤙
 
+[📚 PlanetIlmu](https://planetilmu.com)  
+Tempat saya meletakkan ilmu-ilmu umum, dan juga hal-hal yang bisa diotomatiskan dengan programming seperti kalkulator konversi dan lainnya.
+
 [☕ WarungCopy](https://warungcopy.id)  
 Menulis konten untuk blog atau sosial media lebih mudah dengan WarungCopy.
 
