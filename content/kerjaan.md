@@ -9,14 +9,12 @@ layout = "custompage"
 
 ### Eksperimen [web] 🤙
 
-[📚 PlanetIlmu](https://planetilmu.com)  
-Tempat saya meletakkan ilmu-ilmu umum, dan juga hal-hal yang bisa diotomatiskan dengan programming seperti kalkulator konversi dan lainnya.
 
 [☕ WarungCopy](https://warungcopy.id)  
 Menulis konten untuk blog atau sosial media lebih mudah dengan WarungCopy.
 
-[⌨️ KODING](https://kodi.ng/)  
-Referensi pemrograman dalam bahasa Indonesia.
+[📚 PlanetIlmu](https://planetilmu.com)  
+Tempat saya meletakkan ilmu-ilmu umum, dan juga hal-hal yang bisa diotomatiskan dengan programming seperti kalkulator konversi dan lainnya.
 
 [🛠 Find Developer Tools](https://finddev.tools/)  
 Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya.
@@ -24,9 +22,8 @@ Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudah
 [🌏 Bikin Space](https://bikin.space/)  
 Artikel, video dan link menarik untuk kreator di internet. Cocok untuk kamu yang suka bikin-bikin!
 
-[🕶 Showing Up](https://showinguptoday.vercel.app/)  
+[🕶 Showing Up](https://showinguptoday.vercel.app/) - Tidak dikembangkan lagi  
 Beberapa mini aplikasi produktivitas di satu tempat.
-
 
 [🎨 Kanvas](https://kanvas.hilman.space/)  
 Karya-karya visual yang dibuat dengan HTML/CSS/JS 
@@ -40,10 +37,8 @@ Forum simple yang open-source. Dibuat dengan SEVEN stack (supabase, vercel dan N
 [ 🌑 Mini-SSG](https://minissg.vercel.app/)  
 SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih rapi dengan sistem import, layout dan component
 
-
 [💸 FreeStuff for Dev](https://freestuff.dev/)  
 Daftar layanan gratis untuk developer  
-  
   
 [🏝 PuloDev](https://pulo.dev/)  
 Kumpulan konten developer Indonesia
@@ -52,14 +47,14 @@ Kumpulan konten developer Indonesia
 [shutdown Nov-2020] Linktree (mengumpulkan link di satu tempat) untuk UKM di indonesia
 
 
-[🌇 Little Makassar](https://littlemks.github.io)  
+[🌇 Little Makassar](https://littlemks.github.io) - Tidak dikembangkan lagi   
 Ada banyak hal positif yang menarik di kota saya tinggal, Makassar, lihat disini
 
 [ ☕ Teh Atau Kopi](https://hilman.space/tehataukopi)  
 Podcast seputar kehidupan sehari-hari
 
-[🐨 SekolahKoding](https://sekolahkoding.com/)   
-Video tutorial programming dalam bahasa indonesia, lengkap dengan forum untuk berdiskusi
+[🐨 SekolahKoding - Skodev](https://sko.dev/)   
+Video tutorial programming dalam bahasa indonesia, lengkap dengan forum untuk berdiskusi. Sekarang kamu bisa [belajar coding dengan mudah](https://sko.dev/) di Skodev!
 
 ### Eksperimen [tulisan] 🤙
 
