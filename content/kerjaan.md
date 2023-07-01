@@ -54,7 +54,7 @@ Ada banyak hal positif yang menarik di kota saya tinggal, Makassar, lihat disini
 Podcast seputar kehidupan sehari-hari
 
 [🐨 SekolahKoding - Skodev](https://sko.dev/)   
-Video tutorial programming dalam bahasa indonesia, lengkap dengan forum untuk berdiskusi. Sekarang kamu bisa [belajar coding dengan mudah](https://sko.dev/) di Skodev!
+Video tutorial programming dalam bahasa indonesia, lengkap dengan forum untuk berdiskusi. Sekarang kamu bisa [belajar coding dengan mudah](https://sko.dev/tips-belajar-coding-untuk-pemula) di Skodev!
 
 ### Eksperimen [tulisan] 🤙
 
