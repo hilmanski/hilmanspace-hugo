@@ -1,7 +1,7 @@
 ---  
 title: "Assalamualaikum Papa"  
 slug: "papa"
-description: "Menulis untuk membuat otak kedua (second brain). Asisten untuk membantu kamu berpikir"
+description: "Salam untuk Papa"
 date: 2023-07-26T10:00:00+08:00
 tags: menulis
 ---
