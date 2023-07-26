@@ -6,6 +6,8 @@ date: 2023-07-26T10:00:00+08:00
 tags: menulis
 ---
 
+![salam untuk papa](https://i.ibb.co/Qm61VFm/surat-untuk-papa.webp)
+
 Apa Kabar Pa ?  
 Kami sehat-sehat di sini.  
 Jangan khawatir :)
