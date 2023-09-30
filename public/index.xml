@@ -6,7 +6,20 @@
     <description>Recent content on Hilman Ramadhan | @hilmanski</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>id</language>
-    <lastBuildDate>Wed, 26 Jul 2023 10:00:00 +0800</lastBuildDate><atom:link href="https://hilman.space/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 29 Aug 2023 09:08:41 +0000</lastBuildDate><atom:link href="https://hilman.space/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Komunikasi async</title>
+      <link>https://hilman.space/async/</link>
+      <pubDate>Tue, 29 Aug 2023 09:08:41 +0000</pubDate>
+      
+      <guid>https://hilman.space/async/</guid>
+      <description>K﻿urang lebih sudah 2 tahun saya bekerja secara remote (tidak ke kantor langsung).
+K﻿arena zona waktu tim kami berbeda-beda, kami harus berkomunikasi asynchronous (asinkron). Komunikasi asinkron membantu kamu dan orang lain jadi lebih menghargai waktu.
+Apa itu komunikasi asinkron? A﻿sinkron berarti tidak real time atau tidak langsung. L﻿awan dari komunikasi asinkron adalah komunikasi real time.
+Contoh komunikasi real time: Telepon, ngobrol langsung atau live chat.
+M﻿enghindari interupsi S﻿ering kita sedang berada dalam &amp;ldquo;flow&amp;rdquo;.</description>
+    </item>
+    
     <item>
       <title>Assalamualaikum Papa</title>
       <link>https://hilman.space/papa/</link>
@@ -3388,7 +3401,9 @@ Terlalu luas definisi cinta, kita sempitkan dulu scope yang ingin dibahas disini
       <pubDate>Thu, 10 Dec 2015 12:03:20 +0000</pubDate>
       
       <guid>https://hilman.space/adsense/</guid>
-      <description>Banyak yang bertanya masalah kehalalan atau bolehkah memasang google adsense pada website atau channel youtube. Saya sendiri punya website belajar coding untuk pemula dan channel Youtubenya. Saya pada posisi yang sama, punya layanan yang bisa diiklankan (dapet duit) tapi sangat ragu, apakah boleh memasang adsense pada website. Sekarang juga bermuncul pakar-pakar atau tutorial-tutorial yang mengajarkan bagaimana mendapatkan penghasilan dari internet, salah satunya dari google adsense ini. Kalau sudah masalah penghasilan, jangan main-main, efeknya bisa kemana-mana kalau tidak hati-hati menjaga kehalalannya.</description>
+      <description>Banyak yang bertanya masalah kehalalan atau bolehkah memasang google adsense pada website atau channel youtube. Saya sendiri punya website dan channel Youtube untuk belajar pemrograman.
+Saya pada posisi yang sama, punya layanan yang bisa diiklankan (dapet duit) tapi sangat ragu, apakah boleh memasang adsense pada website. Sekarang juga bermuncul pakar-pakar atau tutorial-tutorial yang mengajarkan bagaimana mendapatkan penghasilan dari internet, salah satunya dari google adsense ini.
+ Kalau sudah masalah penghasilan, jangan main-main, efeknya bisa kemana-mana kalau tidak hati-hati menjaga kehalalannya.</description>
     </item>
     
   </channel>
