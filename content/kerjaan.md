@@ -13,9 +13,6 @@ layout = "custompage"
 [☕ WarungCopy](https://warungcopy.id)  
 Menulis konten untuk blog atau sosial media lebih mudah dengan WarungCopy.
 
-[📚 PlanetIlmu](https://planetilmu.com)  
-Tempat saya meletakkan ilmu-ilmu umum, dan juga hal-hal yang bisa diotomatiskan dengan programming seperti kalkulator konversi dan lainnya.
-
 [🛠 Find Developer Tools](https://finddev.tools/)  
 Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya.
 

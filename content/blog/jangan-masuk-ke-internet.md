@@ -19,4 +19,4 @@ Lebih baik pindah dari sini, bersama kertas dan pulpen, berpikir.. apa yang seha
 Silahkan kembali ke internet, jika kamu membutuhkannya.
 
 [Update]  
-Tidak jarang karena tidak tahu mau berbuat apa akan mendekatkan kamu dengan [kegiatan negatif seperti PMO](https://planetilmu.com/apa-itu/pmo-porn-masturbate-orgasm)
+Tidak jarang karena tidak tahu mau berbuat apa akan mendekatkan kamu dengan kegiatan negatif.
