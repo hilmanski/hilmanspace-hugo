@@ -9,6 +9,8 @@ layout = "custompage"
 
 ### Eksperimen [web] 🤙
 
+[📢 Tools For Digital marketing](https://toolsfordm.com/)  
+Kumpulan rekomendasi tool / software untuk membantu para marketer dalam dunia Marketing dan Sales.
 
 [☕ WarungCopy](https://warungcopy.id)  
 Menulis konten untuk blog atau sosial media lebih mudah dengan WarungCopy.
