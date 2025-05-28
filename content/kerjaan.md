@@ -57,6 +57,10 @@ Video tutorial programming dalam bahasa indonesia, lengkap dengan forum untuk be
 
 ### Eksperimen [tulisan] 🤙
 
+
+[Ini Koding!](https://sekolahkoding.com/buku-ini-koding)  
+Versi terbaru dari buku Halo Koding! Pengalaman dan ilmu baru yang dibungkus dengan bantuan dari percetakan, editor, dan layouter profesional.
+
 [Halo Koding](https://halokoding.com/)  
 Yuk kenalan dengan "koding". Ubah dunia menjadi lebih baik.
 Buku ini tidak terbatas oleh waktu. Tidak terbatas bahasa program
