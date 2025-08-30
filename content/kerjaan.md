@@ -16,7 +16,7 @@ Kumpulan rekomendasi tool / software untuk membantu para marketer dalam dunia Ma
 Menulis konten untuk blog atau sosial media lebih mudah dengan WarungCopy.
 
 [🛠 Find Developer Tools](https://finddev.tools/)  
-Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya.
+Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya. Proyek ini sudah dijual.
 
 [🌏 Bikin Space](https://bikin.space/)  
 Artikel, video dan link menarik untuk kreator di internet. Cocok untuk kamu yang suka bikin-bikin!
@@ -39,8 +39,8 @@ SSG (static site generator) sederhana untuk membuat HTML file kamu menjadi lebih
 [💸 FreeStuff for Dev](https://freestuff.dev/)  
 Daftar layanan gratis untuk developer  
   
-[🏝 PuloDev](https://pulo.dev/)  
-Kumpulan konten developer Indonesia
+🏝 PuloDev    
+Kumpulan konten developer Indonesia. (Tidak aktif)
 
 [🪐 inispace](https://www.youtube.com/playlist?list=PLct5kLrh1BuNuUPEWgLZ5P5Wu2JQ0t-s5) [shutdown Nov-2020]   
 [shutdown Nov-2020] Linktree (mengumpulkan link di satu tempat) untuk UKM di indonesia

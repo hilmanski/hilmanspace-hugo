@@ -3,10 +3,8 @@ title: "Assalamualaikum Papa"
 slug: "papa"
 description: "Salam untuk Papa"
 date: 2023-07-26T10:00:00+08:00
-tags: menulis
+tags: random
 ---
-
-![salam untuk papa](https://i.ibb.co/Qm61VFm/surat-untuk-papa.webp)
 
 Apa Kabar Pa ?  
 Kami sehat-sehat di sini.  

@@ -8,8 +8,18 @@
     ---
     <br><br>
     <small>
-        {{ .Date.Format "Mon Jan 2, 2006" }}, <a href="/tags/{{.Params.Tags}}">#{{.Params.Tags}}</a> <br>
-        Mau email kalau ada info menarik? <a href="http://eepurl.com/gDX5-D" target="_blank"> klik ini</a>. <br>
+        {{ .Date.Format "Mon Jan 2, 2006" }}, 
+        {{ with .Params.tags }}
+            {{ if (reflect.IsSlice .) }}
+                {{ range . }}
+                    <a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
+                {{ end }}
+            {{ else }}
+                <a class="tag" href="/tags/{{ . | urlize }}">{{ . }}</a>
+            {{ end }}
+        {{ end }}
+
+        <!-- <br> Mau email kalau ada info menarik? <a href="http://eepurl.com/gDX5-D" target="_blank"> klik ini</a>. <br> -->
     </small>
     <br>
 </section>
