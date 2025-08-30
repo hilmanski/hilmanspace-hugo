@@ -1,0 +1,12 @@
+content:
+  - name: posts
+    label: Posts
+    path: content/blog
+    type: collection
+    fields:
+      - { name: title, label: Title, type: string }
+      - { name: description, label: Description, type: string }
+      - { name: date, label: Date, type: date }
+      - { name: tags, label: Tags, type: string }
+      - { name: featured_image, label: Featured Img, type: string }
+      - { name: body, label: Body, type: rich-text }
