@@ -6,6 +6,8 @@ content:
     label: Posts
     path: content/blog
     type: collection
+    view: 
+      fields: [title, date, body]
     fields:
       - { name: title, label: Title, type: string }
       - { name: slug, label: Slug, type: string }
