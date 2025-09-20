@@ -15,14 +15,11 @@ Kumpulan rekomendasi tool / software untuk membantu para marketer dalam dunia Ma
 [☕ WarungCopy](https://warungcopy.id)  
 Menulis konten untuk blog atau sosial media lebih mudah dengan WarungCopy.
 
-[🛠 Find Developer Tools](https://finddev.tools/)  
+[🛠 Find Developer Tools - SOLD](https://finddev.tools/)  
 Kumpulan tool tool untuk developer yang dikategorikan dengan baik. Untuk memudahkan mencari alat untuk proyek berikutnya. Proyek ini sudah dijual.
 
-[🌏 Bikin Space](https://bikin.space/)  
-Artikel, video dan link menarik untuk kreator di internet. Cocok untuk kamu yang suka bikin-bikin!
-
-[🕶 Showing Up](https://showinguptoday.vercel.app/) - Tidak dikembangkan lagi  
-Beberapa mini aplikasi produktivitas di satu tempat.
+[🕶 Showing Up](https://showinguptoday.vercel.app/)
+Beberapa mini aplikasi produktivitas di satu tempat. (Tidak dikembangkan lagi)
 
 [🎨 Kanvas](https://kanvas.hilman.space/)  
 Karya-karya visual yang dibuat dengan HTML/CSS/JS 
@@ -42,12 +39,12 @@ Daftar layanan gratis untuk developer
 🏝 PuloDev    
 Kumpulan konten developer Indonesia. (Tidak aktif)
 
-[🪐 inispace](https://www.youtube.com/playlist?list=PLct5kLrh1BuNuUPEWgLZ5P5Wu2JQ0t-s5) [shutdown Nov-2020]   
+[🪐 inispace](https://www.youtube.com/playlist?list=PLct5kLrh1BuNuUPEWgLZ5P5Wu2JQ0t-s5)
 [shutdown Nov-2020] Linktree (mengumpulkan link di satu tempat) untuk UKM di indonesia
 
 
-[🌇 Little Makassar](https://littlemks.github.io) - Tidak dikembangkan lagi   
-Ada banyak hal positif yang menarik di kota saya tinggal, Makassar, lihat disini
+[🌇 Little Makassar](https://littlemks.github.io) 
+Ada banyak hal positif yang menarik di kota saya tinggal, Makassar, lihat disini (Tidak dikembangkan lagi)
 
 [ ☕ Teh Atau Kopi](https://hilman.space/tehataukopi)  
 Podcast seputar kehidupan sehari-hari
