@@ -1,6 +1,4 @@
 {{ define "main" }}
-<!-- Netlify cms  -->
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
 
 <section>
   <h1>Halo, saya Hilman Ramadhan (@hilmanski)</h1>
@@ -55,19 +53,4 @@
     margin-bottom: 5px;
   }
 </style>
-
-<script>
-  //========================
-  //========== Netlify CMS 
-  //========================
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 {{ end }}
