@@ -46,8 +46,6 @@
     </header>
 
 
-<script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
-
 <section>
   <h1>Halo, saya Hilman Ramadhan (@hilmanski)</h1>
   <p class="text-size-m">Salam kenal, saya susah diam, biasanya berpikir, menulis atau bikin sesuatu seperti
@@ -101,21 +99,6 @@
     margin-bottom: 5px;
   }
 </style>
-
-<script>
-  
-  
-  
-  if (window.netlifyIdentity) {
-    window.netlifyIdentity.on("init", user => {
-      if (!user) {
-        window.netlifyIdentity.on("login", () => {
-          document.location.href = "/admin/";
-        });
-      }
-    });
-  }
-</script>
 
 <footer id="footer">
     <a href="/">Hi</a> -
