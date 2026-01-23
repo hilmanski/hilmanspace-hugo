@@ -9,6 +9,9 @@ layout = "custompage"
 
 ### Eksperimen [web] 🤙
 
+[🛠 AI tools for Developers](https://aihunt.dev/)  
+Kumpulan AI tools untuk membantu pekerjaan developer
+
 [📢 Tools For Digital marketing](https://toolsfordm.com/)  
 Kumpulan rekomendasi tool / software untuk membantu para marketer dalam dunia Marketing dan Sales.
 
