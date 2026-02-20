@@ -9,6 +9,9 @@ layout = "custompage"
 
 ### Eksperimen [web] 🤙
 
+[📹 YouTube script writer - VitScript](https://vitscript.com/)  
+Aplikasi untuk menulis script video beserta teleprompter
+
 [🛠 AI tools for Developers](https://aihunt.dev/)  
 Kumpulan AI tools untuk membantu pekerjaan developer
 
